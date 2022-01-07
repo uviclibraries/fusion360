@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # title
 
-button
+[NEXT STEP: act2](act-2.html){: .btn .btn-blue }
