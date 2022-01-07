@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2-
+title: 2-Create a Lego Brick
 nav_order: 3
 parent: Workshop Activities
 ---
 
-# title
+# Create a Lego Brick
 
-[NEXT STEP: act3](act-3.html){: .btn .btn-blue }
+[NEXT STEP: Create a Push Pin](act-3.html){: .btn .btn-blue }
 
