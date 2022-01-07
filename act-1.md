@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1-
+title: 1-Design a Phone Stand
 nav_order: 2
 parent: Workshop Activities
 ---
 
-# title
+# Design a Phone Stand
 
-[NEXT STEP: act2](act-2.html){: .btn .btn-blue }
+[NEXT STEP: Create a Lego Brick](act-2.html){: .btn .btn-blue }
