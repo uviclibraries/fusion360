@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5-
+title: 5-Tips & Tricks
 nav_order: 6
 parent: Workshop Activities
 ---
 
-# title
+# Fusion 360 Tips & Tricks
 
-[NEXT STEP: act6](act-6.html){: .btn .btn-blue }
+[NEXT STEP: Fusion 360 in 30 Days](act-6.html){: .btn .btn-blue }
 
