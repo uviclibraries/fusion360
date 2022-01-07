@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 4-
+title: 4-Split an Object Online
 nav_order: 5
 parent: Workshop Activities
 ---
 
-# title
+# Split an Object Online
 
-[NEXT STEP: act5](act-5.html){: .btn .btn-blue }
+[NEXT STEP: Fusion 360 Tips & Tricks](act-5.html){: .btn .btn-blue }
 
