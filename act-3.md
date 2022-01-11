@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Create a Push Pin
+title: 3-Create a Lego Brick
 nav_order: 4
 parent: Workshop Activities
 ---
@@ -57,5 +57,5 @@ If you or your group have any questions or get stuck as you work through this in
 1.  Chamfer circle pieces on the bottom of the lego piece...
 2.  Fillet internal corners underneath the lego piece...
 
-[NEXT STEP: Split an Object Found Online](act-4.html){: .btn .btn-blue }
+[NEXT STEP: Create a Push Pin](act-4.html){: .btn .btn-blue }
 
