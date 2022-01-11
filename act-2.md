@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Create a Lego Brick
+title: 2-Design a Phone Stand
 nav_order: 3
 parent: Workshop Activities
 ---
@@ -45,5 +45,5 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click on the Modify drop-down menu. Click on Chamfer. Click on the top edge of the hole and the top edge for the outside profile. Rotate around the keychain and select the same edges on the bottom. Enter a Distance of 0.5 mm, and press Enter.
 7.  Save by clicking the Save button on the top left of the screen. Click on File, then Export. Change the Type to the .stl file format and choose a location to save it, and select Export. It may take a couple of minutes to export. Congratulations! You can now 3D print your phone holder!
 
-[NEXT STEP: Create a Push Pin](act-3.html){: .btn .btn-blue }
+[NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 
