@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Fusion 360 Resources
+## Fusion 360 Resources YOOOOO
 -   [Fusion 360 in 30 days](https://www.youtube.com/watch?v=sZwM87-nsYA&list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-){:target="_blank"}
     This is an excellent free series of instructional videos if you would like to learn to design other objects like: whiskey bottle, phone case, Ice cube tray, and much more!
     
