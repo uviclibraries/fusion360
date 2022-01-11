@@ -10,10 +10,10 @@ parent: Workshop Activities
 Fusion 360 has A LOT of features. Here’s a quick guide of tools and features to help get you started on your first project!
 
 1.  Moving around
-    -   **Hold down** the mouse wheel and **drag** to move.
-    -   **Press** the shift key while **holding down** the mouse wheel to **rotate.**
-    -   **Scroll** the mouse wheel to zoom in and out.
-    -   **Click** to select.
+    -   **Hold down** the **mouse wheel** and **drag** to **move.**
+    -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
+    -   **Scroll** the **mouse wheel** to **zoom** in and out.
+    -   **Click** to **select.**
 2.  Changing the view of your workspace
     -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or points to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
@@ -32,7 +32,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Click** on a second surface, edge, or point. The distances between the two features will appear.
 6.  Cross-section view
     -   Sometimes viewing an object through the middle of it is more useful than from the outside (e.g. in the bone-splitting activity, interlocking features are made). Viewing a cross-section is useful to ensure there is no interference between features.
-    -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis**. **Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
+    -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
     -   To turn the feature on and off. Find the **Analysis** folder in the **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
 7.  Renaming features
     -   The design **Timeline** can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
