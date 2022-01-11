@@ -17,11 +17,11 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
     -   **Scroll** the **mouse wheel** to **zoom** in and out.
     -   **Click** to **select.**
-    -   **Press Esc** to clear a selection
+    -   **Press Esc** to **clear a selection**
 3.  Measure the width of your phone
     -   Ask the instructor for a calliper tool so that you can measure the width of your cell phone.
-    -   **Write down the width** of your cell phone out to two decimal places
-    -   Now **add 0.5 to the width** of your phone and write it down (e.g. if my phone was 8.50mm then I’d write 9.00mm)
+    -   **Write down or record the width** of your cell phone out to two decimal places
+    -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was 8.50mm then I’d write 9.00mm)
 4.  Create the basic shape of the phone stand:
     -   Start a new sketch by clicking the **Create Sketch** icon . It will prompt you to select a plane. A good practice is to **select the plane** from which the object would be viewed in real life. In this case, the **top plane** or horizontal plane is desired because that is how the object will be printed on the 3D printers.
     -   **Select** the **2-Point Rectangle** tool. **Click** on the **origin** in the middle of the screen, then click somewhere above and to the right. Click the **Esc** key to exit the **2-Point Rectangle** tool.
