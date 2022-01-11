@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Tips & Tricks
+title: 5-Split an Object Found Online
 nav_order: 6
 parent: Workshop Activities
 ---
@@ -64,5 +64,5 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click on the Save button to save your Fusion 360 file.
     -   Congratulations! You now have a printable femur!
 
-[NEXT STEP: Fusion 360 in 30 Days](act-6.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 
