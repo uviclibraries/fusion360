@@ -13,11 +13,11 @@ If you or your group have any questions or get stuck as you work through this in
     -   Check your laptop specs to ensure it’s able to run Fusion 360: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow this link to make an Autodesk account and download Fusion 360: [https://bit.ly/2QvZKeb](https://bit.ly/2QvZKeb){:target="_blank"}
 2.  Launch Fusion 360 and get familiar with how to move around.
-    -   **Hold down** the mouse wheel and **drag** to move.
-    -   **Press** the shift key while **holding down** the mouse wheel to rotate.
-    -   **Scroll** the mouse wheel to zoom in and out.
-    -   **Click** to select.
-    -   **Press** Esc to clear a selection
+    -   **Hold down** the **mouse wheel** and **drag** to **move.**
+    -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
+    -   **Scroll** the **mouse wheel** to **zoom** in and out.
+    -   **Click** to **select.**
+    -   **Press Esc** to clear a selection
 3.  Measure the width of your phone
     -   Ask the instructor for a calliper tool so that you can measure the width of your cell phone.
     -   **Write down the width** of your cell phone out to two decimal places
