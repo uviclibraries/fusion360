@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Split an Object Found Online
+title: 4-Create a Push Pin
 nav_order: 5
 parent: Workshop Activities
 ---
@@ -47,5 +47,5 @@ If you or your group have any questions or get stuck as you work through this in
 
 8.  Click on the Modify drop-down menu and select Appearance. Scroll down to the bottom of the window. Click on the Metal folder, then on the Steel folder, drag the Steel-Cast block and drop it onto the pin. Click on the Plastic folder, drag and drop the ABS(White) block onto the plastic part of the pushpin. If you want, you can try to make a render of the pushpin by clicking on Design in the top-left corner and selecting Render.
 
-[NEXT STEP: Fusion 360 Tips & Tricks](act-5.html){: .btn .btn-blue }
+[NEXT STEP: Splitting an Object Found Online](act-5.html){: .btn .btn-blue }
 
