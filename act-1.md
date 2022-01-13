@@ -22,11 +22,11 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 2.  Changing the view of your workspace
     -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or points to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
-
-    <img src="images/act-1/3.png" alt="bad sketch" style="float:right;width:240px;">
-
 3.  Sketch dimensioning
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
+    
+    <img src="images/act-1/3.png" alt="bad sketch" style="float:right;width:240px;">
+    
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
     
     <img src="images/act-1/3-2.png" alt="good sketch" style="float:right;width:240px;">
@@ -49,16 +49,19 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 
 6.  Cross-section view
     -   Sometimes viewing an object through the middle of it is more useful than from the outside (e.g. in the bone-splitting activity, interlocking features are made). Viewing a cross-section is useful to ensure there is no interference between features.
-    -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane<img src="images/act-1/6.png" alt="drop down" style="float:right;width:180px;"> that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
+    -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
+    
+    <img src="images/act-1/6.png" alt="drop down" style="float:right;width:180px;">
+    
     -   To turn the feature on and off. Find the **Analysis** folder in the **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
-
-    <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;">
-
 7.  Renaming features
+    
+    <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;">
+    
+    -   The design **Timeline** can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
     
     <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;">
     
-    -   The design **Timeline** can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 8.  Editing features
@@ -68,11 +71,11 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     
     -   After you make a part, you will almost certainly need to go back and edit various aspects of it. Often, editing time will exceed initial designing time. Consider the following questions when doing the initial design:
         -   What dimensions are the most likely to be modified?
+        
+        <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;">
+        
         -   If the outer dimensions of the part change, how do I want the other features to move with respect to the body?
         -   How should I setup a feature such that it changes (or doesn’t) when other features change. (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
-    
-    <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;">
-    
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
