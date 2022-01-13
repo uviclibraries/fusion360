@@ -82,7 +82,7 @@ If you or your group have any questions or get stuck as you work through this in
 7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. Congratulations! You can now 3D print your phone holder!
     
     <img src="images/act-2/7.png" alt="final 3d model" style="width:180px;">
-    <img src="images/act-2/7-2.png" alt="final printed piece" style="width:180px;">
+    <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:180px;">
 
 [NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 
