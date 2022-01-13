@@ -5,6 +5,8 @@ nav_order: 5
 parent: Workshop Activities
 ---
 
+<img src="images/act-4/0.png" alt="" style="float:right;width:180px;">
+
 # Create a Push Pin
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
@@ -12,22 +14,43 @@ If you or your group have any questions or get stuck as you work through this in
 1.  **Download** and **install** Fusion 360:
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: https://autode.sk/2qg8ryB
     -   Follow this link to make an Autodesk account and download Fusion 360: https://bit.ly/2QvZKeb
+
+    <img src="images/act-4/2.png" alt="" style="float:right;width:180px;">
+
 2.  Create a new part:
     -   **Open Fusion 360**
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
+    
+    <img src="images/act-4/2-2.png" alt="" style="float:right;width:180px;">
+    
     -   **Select** the **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
     -   On the top-right menu, **select File,** and then **New Design.**
+
+    <img src="images/act-4/3-2.png" alt="" style="float:right;width:180px;">
+
 3.  Make the plastic part of the push pin:
-    -   **Select** the **Create Sketch** feature. **Select** the **Top** plane.
-    -   **Select** the **Line** tool. Make a “U” shape with lines by clicking on the green axis, then on the origin, then on the red axis, then straight up from that point. **Click** the **Esc** key to exit the Line tool.
-    -   **Select** the **Sketch Dimension** tool. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
-    -   **Click** on the **Center Diameter Circle** tool. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
-    -   **Select** the **Line** tool. **Click** on one **circle,** then **click** on the **second circle.**
-    -   **Select** the **Sketch Dimension** tool. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
-    -   **Select** the **Trim** tool . This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
-    -   **Click** over to the **SOLID** tab on the top menu, and click on the **Revolve** feature. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
+    -   **Select** the **Create Sketch** <img src="images/act-4/3.png" alt="" style="width:30px;"> feature. **Select** the **Top** plane.
+    -   **Select** the **Line** tool <img src="images/act-4/3-3.png" alt="" style="width:30px;">. Make a “U” shape with lines by clicking on the green axis, then on the origin, then on the red axis, then straight up from that point. **Click** the **Esc** key to exit the Line tool.
+    -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="" style="width:30px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
+    
+    <img src="images/act-4/3-5.png" alt="" style="float:right;width:180px;">
+    
+    -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="" style="width:30px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
+    -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="" style="width:30px;">. **Click** on one **circle,** then **click** on the **second circle.**
+    
+    <img src="images/act-4/3-9.png" alt="" style="float:right;width:180px;">
+    
+    -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="" style="width:30px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
+    -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="" style="width:30px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
+    
+    <img src="images/act-4/3-92.png" alt="" style="float:right;width:180px;">
+    
+    -   **Click** over to the **SOLID** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="" style="width:30px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
+
+    <img src="images/act-4/4.png" alt="" style="float:right;width:180px;">
+
 4.  Add a hole for the metal pin:
-    -   **Click** on the **Left** face of the object. **Select** the **Hole** feature.
+    -   **Click** on the **Left** face of the object. **Select** the **Hole** feature <img src="images/act-4/4-2.png" alt="" style="width:30px;">.
     -   **Drag** the hole so it’s snapped to the origin.
     -   In the Hole Feature window, change the **Drill Point** end condition to **Flat,** change the depth to 5 mm and the width to 1 mm.
     -   **Click OK** in the **Hole Feature** window.
