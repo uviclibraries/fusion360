@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/logo.png" style="float:right;width:180px;" alt="image description">
+<img src="images/logo.png" style="float:right;width:360px;" alt="image description">
 
 # Introduction to 3D Design With Fusion 360
 
