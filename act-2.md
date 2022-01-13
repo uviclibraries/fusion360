@@ -76,13 +76,13 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Fillet** tool on the top menu <img src="images/act-2/6.png" alt="fillet tool" style="width:30px;">. **Click** on the **6 outside vertical corner edges** of the rectangle in turn and **change** the **fillet radius** to **3 mm** for all of them.
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
-    <img src="images/act-2/6-2.png" alt="" style="float:left;width:180px;">
-    <img src="images/act-2/6-3.png" alt="" style="float:left;width:180px;">
+    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="float:left;width:240px;">
+    <img src="images/act-2/6-3.png" alt="fillet pop up" style="float:left;width:240px;">
     
 7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. Congratulations! You can now 3D print your phone holder!
     
-    <img src="images/act-2/7.png" alt="" style="float:left;width:180px;">
-    <img src="images/act-2/7-2.png" alt="" style="float:left;width:180px;">
+    <img src="images/act-2/7.png" alt="final 3d model" style="width:180px;">
+    <img src="images/act-2/7-2.png" alt="final printed piece" style="width:180px;">
 
 [NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 
