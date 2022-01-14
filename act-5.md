@@ -89,7 +89,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click over to the **Solid** tab and select the **Extrude** feature. Select the inside of the rectangle. Rotate the view so it can be seen in 3D. Enter -11 mm and **click OK.**
     -   Unhide **Body1** by clicking the eye again.
 
-    <img src="images/act-5/p2-3.png" alt="hole" style="float:right;width:240px;">
+    <img src="images/act-5/p2-3.png" alt="hole" style="float:right;width:220px;">
 
 3.  Export as separate STL files:
     -   Right-click on **Body1** in the design tree. Select **Save As STL. Click OK** in the pop-up box. Save it in your desired location.
