@@ -58,7 +58,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Congratulations! You now have a printable femur!
 
 
-<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:360px;">
+<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:240px;">
 # Split a Long Object in Fusion 360 (Part 2: Interlocking Features)
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
