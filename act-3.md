@@ -10,12 +10,12 @@ parent: Workshop Activities
 # Create a Lego Brick
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-
-<img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:360px;">
-
 1.  **Download** and **install** Fusion 360:
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow [this link](https://bit.ly/2QvZKeb){:target="_blank"} to make an Autodesk account and download Fusion 360.
+
+    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:360px;">
+
 2.  Normally we’d measure the lego with calipers, but as we’re not in the library here are the dimensions you’ll need:
     -   A: 6.314 mm
     -   B: 5.314 mm
@@ -54,10 +54,10 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:30px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
     
-    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:240px;">
+    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:220px;margin-left:10px;">
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
-    -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.png" alt="" style="width:30px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
+    -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.png" alt="rectangular pattern" style="width:30px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
     <img src="images/act-3/7-2.png" alt="underside lego in progress" style="float:right;width:180px;">
