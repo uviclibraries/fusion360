@@ -57,7 +57,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:220px;margin-left:10px;">
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
-    -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.png" alt="rectangular pattern" style="width:30px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
+    -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:30px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
     <img src="images/act-3/7-2.png" alt="underside lego in progress" style="float:right;width:180px;">
@@ -77,8 +77,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Create** drop-down menu. **Click** on **Pattern** to show a second menu. Select the **Rectangular Pattern.** Change the **Pattern Type** to **Features.** Select the newly-created cylinder. **Click** on the arrow next to **Directions. Click** on the **red axis** near the corner of the part. Enter **16 mm** as the **Distance.** Ensure **Quantity** is **3. Click OK.**
 9.  Chamfer. Let’s add a small chamfer to specific edges to make 3D printing and assembly easier. Click on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool icon" style="width:30px;">. Select all the edges highlighted in blue shown in the pictures. Enter **0.25 mm** as the **Distance. Click OK.**
 
-    <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:240px;">
-    <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:240px;">
+    <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:360px;">
+    <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:360px;">
 
 0.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. Congratulations! You can now 3D print a Lego!
 
