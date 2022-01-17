@@ -63,16 +63,16 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Right-Click** on **Body1** and select **Create Components from Bodies.** This has converted the pushpin body into a component. Components are the individual parts needed in an assembly, while bodies are just building blocks for components.
     -   Another way to make a component is to specify it before building any bodies. At the top of the screen, **click** on the **New Component** feature <img src="images/act-4/5-3.png" alt="new component icon" style="width:25px;">. **Click OK** in the pop-up box.
 
-    <img src="images/act-4/6.png" alt="chamfer pop up" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-4/6.png" alt="chamfer pop up" style="float:right;width:360px;margin-left:10px;">
 
 6.  Make the metal pin:
     -   **Orient** the push pin so you can look down the hole. **Select** the bottom face of the hole.
     -   **Click** on the **Extrude** feature <img src="images/act-4/6-2.png" alt="extrude feature" style="width:25px;">. In the Extrude pop-up box, **enter 15 mm** as the **Distance. Click OK.**
     -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to 0.5 mm and the second to 2.5 mm. **Click OK.**
-    
-    <img src="images/act-4/6-4.png" alt="small circle" style="float:right;width:240px;margin-left:10px;">
-    
     -   To activate both components at once, hover over the file name in the browser and **click the small circle** that appears next to the name.
+    
+        <img src="images/act-4/6-4.png" alt="small circle" style="width:240px;">
+    
 7.  Congratulations! You have modelled an assembly of two components in Fusion!
 
     <br>
