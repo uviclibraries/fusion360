@@ -53,10 +53,10 @@ If you or your group have any questions or get stuck as you work through this in
 6.  Add connectors
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:25px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
+    -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
     
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:360px;margin-left:10px;">
     
-    -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
     -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 7.  Hollow it out: Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
