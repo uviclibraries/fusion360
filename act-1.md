@@ -5,20 +5,19 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
+<img src="images/act-1/1.png" alt="3d orientation" style="float:right;width:180px;margin-left:10px;">
+
 # Fusion 360 Tips, Tricks, and Good Practice
 
 Fusion 360 has A LOT of features. Here’s a quick guide of tools and features to help get you started on your first project!
 
-<img src="images/act-1/1.png" alt="3d orientation" style="float:right;width:120px;margin-left:10px;">
+<img src="images/act-1/1-2.png" alt="snap to grid" style="float:right;width:180px;margin-left:10px;">
 
 1.  Moving around
     -   **Hold down** the **mouse wheel** and **drag** to **move.**
     -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
     -   **Scroll** the **mouse wheel** to **zoom** in and out.
     -   **Click** to **select.**
-
-    <img src="images/act-1/1-2.png" alt="snap to grid" style="float:right;width:100px;margin-left:10px;">
-
 2.  Changing the view of your workspace
     -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or points to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
