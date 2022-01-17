@@ -46,16 +46,16 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
+
+    <img src="images/act-4/4.png" alt="hole tool pop up" style="float:right;width:360px;margin-left:10px;">
+
 4.  Add a hole for the metal pin:
-    
-    <img src="images/act-4/4.png" alt="hole tool pop up" style="float:right;width:240px;margin-left:10px;">
-    
     -   **Click** on the **Left** face of the object. **Select** the **Hole** feature <img src="images/act-4/4-2.png" alt="hole tool" style="width:25px;">.
     -   **Drag** the hole so it’s snapped to the origin.
     -   In the Hole Feature window, change the **Drill Point** end condition to **Flat,** change the depth to 5 mm and the width to 1 mm.
     -   **Click OK** in the **Hole Feature** window.
 
-    <img src="images/act-4/5-2.png" alt="" style="width:480px;margin-left:10px;">
+    <img src="images/act-4/5-2.png" alt="" style="width:240px;margin-left:10px;">
     <img src="images/act-4/5.png" alt="create components" style="float:right;width:360px;margin-left:10px;">
 
 5.  Make it into a component:
