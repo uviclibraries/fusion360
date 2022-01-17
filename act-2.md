@@ -42,8 +42,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
     
-    <img src="images/act-2/4-7.png" alt="extrude the rectangle" style="width:325px;">
-    <img src="images/act-2/4-6.png" alt="extruded rectangle" style="width:325px;">
+    <img src="images/act-2/4-7.png" alt="extrude the rectangle" style="width:330px;">
+    <img src="images/act-2/4-6.png" alt="extruded rectangle" style="width:330px;">
     
 5.  Cut out slot for phone and hole for your keychain.
     
@@ -76,13 +76,13 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Fillet** tool on the top menu <img src="images/act-2/6.png" alt="fillet tool" style="width:25px;">. **Click** on the **6 outside vertical corner edges** of the rectangle in turn and **change** the **fillet radius** to **3 mm** for all of them.
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
-    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="width:325px;">
-    <img src="images/act-2/6-3.png" alt="fillet pop up" style="width:325px;">
+    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="width:330px;">
+    <img src="images/act-2/6-3.png" alt="fillet pop up" style="width:330px;">
     
 7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. Congratulations! You can now 3D print your phone holder!
     
-    <img src="images/act-2/7.png" alt="final 3d model" style="width:325px;">
-    <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:325px;">
+    <img src="images/act-2/7.png" alt="final 3d model" style="width:330px;">
+    <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:330px;">
 
 [NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 
