@@ -28,10 +28,10 @@ If you or your group have any questions or get stuck as you work through this in
 3.  **SKIP TO STEP 4!** Measure a Lego. Record the values below to two decimal places:
 
     For dimension **“C”**, include the thickness of the small nubs. Some of the dimensions are provided since they are a little more difficult to measure. But, they’re not impossible! How might you go about measuring them?
-
-    <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;">
-
 4.  Create a new part:
+    
+    <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;">
+    
     -   **Open** Fusion 360
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** the **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
@@ -54,15 +54,15 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:30px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
     
-    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:220px;margin-left:10px;">
+    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:240px;margin-left:10px;">
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
     -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:30px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
-
-    <img src="images/act-3/7-2.png" alt="underside lego in progress" style="float:right;width:180px;">
-
 7.  Hollow it out: Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:30px;">. Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
+
+    <img src="images/act-3/7-2.png" alt="underside lego in progress" style="width:240px;">
+
 8.  Add circles to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
     
