@@ -29,18 +29,20 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** the **Create Sketch** <img src="images/act-4/3.png" alt="create sketch tool" style="width:25px;"> feature. **Select** the **Top** plane.
     -   **Select** the **Line** tool <img src="images/act-4/3-3.png" alt="line tool" style="width:25px;">. Make a “U” shape with lines by clicking on the green axis, then on the origin, then on the red axis, then straight up from that point. **Click** the **Esc** key to exit the Line tool.
     
-    <img src="images/act-4/3-2.png" alt="initial lines" style="float:right;width:240px;margin-left:10px;">
+    
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
     
-    <img src="images/act-4/3-5.png" alt="circles" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-4/3-2.png" alt="initial lines" style="width:720px;">
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
     -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="line tool" style="width:25px;">. **Click** on one **circle,** then **click** on the **second circle.**
     
-    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-4/3-5.png" alt="circles" style="width:720px;">
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
+    
+    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="width:720px;">
     
     <img src="images/act-4/3-92.png" alt="revolved pushpin" style="float:right;width:240px;margin-left:10px;">
     
@@ -52,7 +54,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   In the Hole Feature window, change the **Drill Point** end condition to **Flat,** change the depth to 5 mm and the width to 1 mm.
     -   **Click OK** in the **Hole Feature** window.
 
-    <img src="images/act-4/4.png" alt="hole tool pop up" style="float:right;width:240px;">
+    <img src="images/act-4/4.png" alt="hole tool pop up" style="width:240px;">
     <img src="images/act-4/5-2.png" alt="" style="width:240px;margin-left:10px;">
     <img src="images/act-4/5.png" alt="create components" style="float:right;width:360px;margin-left:10px;">
 
