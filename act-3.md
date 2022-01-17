@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/act-3/0.png" alt="printed lego" style="float:right;width:360px;">
+<img src="images/act-3/0.png" alt="printed lego" style="float:right;width:360px;margin-left:10px;">
 
 # Create a Lego Brick
 
@@ -14,7 +14,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow [this link](https://bit.ly/2QvZKeb){:target="_blank"} to make an Autodesk account and download Fusion 360.
 
-    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:360px;">
+    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:360px;margin-left:10px;">
 
 2.  Normally we’d measure the lego with calipers, but as we’re not in the library here are the dimensions you’ll need:
     -   A: 6.314 mm
@@ -30,25 +30,25 @@ If you or your group have any questions or get stuck as you work through this in
     For dimension **“C”**, include the thickness of the small nubs. Some of the dimensions are provided since they are a little more difficult to measure. But, they’re not impossible! How might you go about measuring them?
 4.  Create a new part:
     
-    <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;">
+    <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     
     -   **Open** Fusion 360
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** the **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
     -   On the top-right menu, **select File,** and then **New Design.**
 
-    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;">
+    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
 5.  Make the main body:
     -   **Select** the **Create Sketch** feature <img src="images/act-3/5.png" alt="create sketch tool" style="width:30px;">. **Select** the **Top** plane.
     -   **Select** the **2-Point Rectangle**  tool. **Click** on the **origin,** then **click** somewhere **above and to the right. Click** the **Esc** key to exit the 2-Point Rectangle tool.
     
-    <img src="images/act-3/5-3.png" alt="defined rectangle" style="float:right;width:240px;">
+    <img src="images/act-3/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
     
     -   Select the **Sketch Dimension** tool <img src="images/act-3/5-4.png" alt="sketch dimension tool" style="width:30px;">. **Click** on the **top line, move your mouse slightly** above the line and **click** again. **Enter** your measured **“G”** as the dimension. **Repeat** with the right line, but enter **“H”**.
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:30px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
 
-    <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;">
+    <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;">
 
 6.  Add connectors
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
@@ -66,12 +66,12 @@ If you or your group have any questions or get stuck as you work through this in
 8.  Add circles to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
     
-    <img src="images/act-3/8-3.png" alt="circles placement" style="float:right;width:240px;">
+    <img src="images/act-3/8-3.png" alt="circles placement" style="float:right;width:240px;margin-left:10px;">
     
     -   In the **Sketch Palette,** on the far right, **click** the **Construction** icon <img src="images/act-3/8.png" alt="construction icon" style="width:30px;">. Then **select Line** <img src="images/act-3/8-2.png" alt="line tool" style="width:30px;"> from the sketch tools on the top menu. Click the center of the top-left circle, then click the center of the circle diagonal to it. **Click** the **Esc** key to exit the Line tool. **Click** on the **Center Diameter Circle** tool. Hover over the middle of the line until a blue triangle appears. Click to place the center of a circle in the middle of the line, click again to make a circle. Repeat this once again, making this circle slightly smaller.
     -   **Click** on the **Sketch Dimension** tool. Click on one circle and enter **“A”.** Click on the other and enter **“B”.**
     
-    <img src="images/act-3/8-4.png" alt="edit feature pop up" style="float:right;width:240px;">
+    <img src="images/act-3/8-4.png" alt="edit feature pop up" style="float:right;width:240px;margin-left:10px;">
     
     -   **Click** over to the **Solid** tab. **Click** on the **Extrude** feature. Select the area between the two circles. Change the **Extent** to **To Object.** Select the space between the two outer rectangles (see where the second red arrow is pointing) as the **Object.** Then **click OK** in the **Extrude** pop-up box.
     -   **Click** on the **Create** drop-down menu. **Click** on **Pattern** to show a second menu. Select the **Rectangular Pattern.** Change the **Pattern Type** to **Features.** Select the newly-created cylinder. **Click** on the arrow next to **Directions. Click** on the **red axis** near the corner of the part. Enter **16 mm** as the **Distance.** Ensure **Quantity** is **3. Click OK.**
