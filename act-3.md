@@ -14,7 +14,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow [this link](https://bit.ly/2QvZKeb){:target="_blank"} to make an Autodesk account and download Fusion 360.
 
-    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:360px;margin-left:10px;">
+    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:330px;margin-left:10px;">
 
 2.  Normally we’d measure the lego with calipers, but as we’re not in the library here are the dimensions you’ll need:
     -   A: 6.314 mm
@@ -29,10 +29,10 @@ If you or your group have any questions or get stuck as you work through this in
 
     For dimension **“C”**, include the thickness of the small nubs. Some of the dimensions are provided since they are a little more difficult to measure. But, they’re not impossible! How might you go about measuring them?
 4.  Create a new part:
+    -   **Open** Fusion 360
     
     <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     
-    -   **Open** Fusion 360
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** the **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
     -   On the top-right menu, **select File,** and then **New Design.**
