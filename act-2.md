@@ -44,9 +44,11 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-2/4-7.png" alt="extrude the rectangle" style="width:330px;">
     <img src="images/act-2/4-6.png" alt="extruded rectangle" style="width:330px;">
-    <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
     
 5.  Cut out slot for phone and hole for your keychain.
+    
+    <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
+    
     -   **Click** on the **top face** of the object then **click** the **Create Sketch** tool <img src="images/act-2/5.png" alt="create sketch tool" style="width:30px;">.
     -   **Click** on the **2-Point Rectangle** tool. **Click** on the **top line** of the rectangle to constrain the first point of the rectangle to it and **click lower and to the right** of the first point.
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **top line** of the new rectangle, **enter the value** you calculated in step **3c**. **Click** the **right line**, enter **16 mm**. Now hold down your shift button & **click** the **right side** of the new rectangle and the **right side** of the **old rectangle** and enter **12 mm**. Notice the rectangle is now fully defined and in the correct location.
