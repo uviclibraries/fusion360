@@ -41,7 +41,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     <img src="images/act-1/5.png" alt="measure tool" style="float:right;width:120px;margin-left:10px;">
 
 5.  Measuring
-    -   Sometimes you may want to quickly view a dimension without going into a sketch. Above the **Inspect** menu, click on the **Measure** <img src="images/act-1/5-2.png" alt="measure tool" style="width:25px;"> tool.
+    -   Sometimes you may want to quickly view a dimension without going into a sketch. Above the **Inspect** menu, click on the **Measure** <img src="images/act-1/5-2.png" alt="measure tool" style="width:30px;"> tool.
     -   **Click** on a surface, edge, or point. Geometric properties relating to that feature will appear.
     -   **Click** on a second surface, edge, or point. The distances between the two features will appear.
 
