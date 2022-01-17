@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-5/4.png" alt="insert mesh" style="float:right;width:240px;margin-left:10px;">
     
-    -   In the **INSERT MESH** pop-up box on the right ensure the **Unit Type** is in **mm,** click on the **Center** button <img src="images/act-5/4-2.png" alt="center button" style="width:30px;"> (two places below Unit Type) and then **OK.**
+    -   In the **INSERT MESH** pop-up box on the right ensure the **Unit Type** is in **mm,** click on the **Center** button <img src="images/act-5/4-2.png" alt="center button" style="width:25px;"> (two places below Unit Type) and then **OK.**
     -   Now the model is a mesh body, but not a solid body that can be edited. **Right-click** anywhere on the **bone,** select **Mesh to BRep. Click OK** in the pop-up box.
     -   **Right-click** on the **document name** again. At the bottom of the pop-up **select Capture Design History.** This allows you to go back and edit the features you create.
 
@@ -41,7 +41,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 5.  Cut the bone into two pieces:
     -   **Click** on the **Construct** drop-down on the top menu and **select Offset Plane.** Select the YZ plane (see right). Enter a **Distance** of 5 mm, and **press OK.**
-    -   **Click** on the **Modify** drop-down menu & **select** the **Split Body** tool <img src="images/act-5/5-2.png" alt="split tool" style="width:30px;">.
+    -   **Click** on the **Modify** drop-down menu & **select** the **Split Body** tool <img src="images/act-5/5-2.png" alt="split tool" style="width:25px;">.
     -   First, **click** on the **bone** to set it as the **Body to Split** (it will turn blue). **Click** on the **Select** button next to **Splitting Tool(s)** (see right). **Select** the **plane** you made, and a red disk will appear intersecting the bone. **Press OK.**
     
     <img src="images/act-5/5-3.png" alt="split body pop up" style="float:right;width:240px;margin-left:10px;">
@@ -67,18 +67,18 @@ If you or your group have any questions or get stuck as you work through this in
 
 1.  Add a rectangular “peg” to one side of the femur:
     -   Hide **Body2** by going to the left panel and **clicking** the **eye** or **lightbulb** next to it on the design tree (see right).
-    -   In the top right corner, **click** on the **Right** face of the view cube to rotate the bone. While in this view, **click** on the **cut face of the bone** and **click** on the **Create Sketch** tool <img src="images/act-5/p2-1-2.png" alt="create sketch tool" style="width:30px;">.
+    -   In the top right corner, **click** on the **Right** face of the view cube to rotate the bone. While in this view, **click** on the **cut face of the bone** and **click** on the **Create Sketch** tool <img src="images/act-5/p2-1-2.png" alt="create sketch tool" style="width:25px;">.
     
     <img src="images/act-5/p2-1-3.png" alt="rectangle sketch" style="float:right;width:240px;margin-left:10px;">
     
     -   **Click** on the **Create** drop-down menu, **click** on **Rectangle,** then **click** on **Center Rectangle. Click** somewhere **in the middle of the surface** and **click** again to **make the rectangle.**
-    -   Select the **Sketch Dimension** tool <img src="images/act-5/p2-1-4.png" alt="sketch dimension tool" style="width:30px;">. **Click** on the bottom line of the rectangle, then move the mouse down until a dimension is shown. **Enter 10 mm** as the value. **Repeat with the left line.** These dimensions can now be dragged closer to the rectangle to improve readability.
-    -   **Click** on the **center** of the rectangle, then on the **origin** <img src="images/act-5/p2-1-5.png" alt="origin" style="width:30px;"> move your mouse above the part to create a horizontal dimension, click and enter 9 mm. Repeat in the vertical direction and enter 14 mm. **Click** on the green **Finish Sketch** button on the top right of the navigation bar.
+    -   Select the **Sketch Dimension** tool <img src="images/act-5/p2-1-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the bottom line of the rectangle, then move the mouse down until a dimension is shown. **Enter 10 mm** as the value. **Repeat with the left line.** These dimensions can now be dragged closer to the rectangle to improve readability.
+    -   **Click** on the **center** of the rectangle, then on the **origin** <img src="images/act-5/p2-1-5.png" alt="origin" style="width:25px;"> move your mouse above the part to create a horizontal dimension, click and enter 9 mm. Repeat in the vertical direction and enter 14 mm. **Click** on the green **Finish Sketch** button on the top right of the navigation bar.
     
     <img src="images/act-5/p2-1-7.png" alt="peg" style="float:right;width:180px;margin-left:10px;">
     
-    -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:30px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
-    -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:30px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
+    -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
+    -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
 
     <img src="images/act-5/p2-2.png" alt="rectangle sketch 2" style="float:right;width:180px;margin-left:10px;">
 
