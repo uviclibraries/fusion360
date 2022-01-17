@@ -57,10 +57,13 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-2/5-4.png" alt="center diameter circle" style="width:30px;">. **Click** on the part near the **top left corner**. **Click** again to **create a circle**.
 
-    <img src="images/act-2/5-6.png" alt="create toolbar" style="width:360px;">
+        <img src="images/act-2/5-6.png" alt="create toolbar" style="width:360px;">
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter **5 mm**. **Click** on the **center of the circle** and then **click on the left line** of the rectangle, enter **4 mm**. **Click** on the **center of the circle** and then **click** on the **top line of the rectangle**, enter **4 mm**.
-    -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text.<img src="images/act-2/5-5.png" alt="text and lines" style="float:right;width:240px;margin-left:10px;"> You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
+    
+    <img src="images/act-2/5-5.png" alt="text and lines" style="float:right;width:240px;margin-left:10px;">
+    
+    -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     
     <img src="images/act-2/5-9.png" alt="extrude pop up" style="float:right;width:280px;margin-left:10px;">
