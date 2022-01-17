@@ -77,8 +77,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Create** drop-down menu. **Click** on **Pattern** to show a second menu. Select the **Rectangular Pattern.** Change the **Pattern Type** to **Features.** Select the newly-created cylinder. **Click** on the arrow next to **Directions. Click** on the **red axis** near the corner of the part. Enter **16 mm** as the **Distance.** Ensure **Quantity** is **3. Click OK.**
 9.  Chamfer. Let’s add a small chamfer to specific edges to make 3D printing and assembly easier. Click on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool icon" style="width:30px;">. Select all the edges highlighted in blue shown in the pictures. Enter **0.25 mm** as the **Distance. Click OK.**
 
-    <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:360px;">
-    <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:360px;">
+    <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:330px;">
+    <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:330px;">
 
 0.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. Congratulations! You can now 3D print a Lego!
 
