@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-<img src="images/act-2/0.png" alt="phone stand" style="float:right;width:330px;margin-left:10px;">
+<img src="images/act-2/0.png" alt="phone stand" style="float:right;width:300px;margin-left:10px;">
 
 # Design a Phone Stand
 
