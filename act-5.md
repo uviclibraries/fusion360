@@ -75,12 +75,12 @@ If you or your group have any questions or get stuck as you work through this in
     -   Select the **Sketch Dimension** tool <img src="images/act-5/p2-1-4.png" alt="sketch dimension tool" style="width:30px;">. **Click** on the bottom line of the rectangle, then move the mouse down until a dimension is shown. **Enter 10 mm** as the value. **Repeat with the left line.** These dimensions can now be dragged closer to the rectangle to improve readability.
     -   **Click** on the **center** of the rectangle, then on the **origin** <img src="images/act-5/p2-1-5.png" alt="origin" style="width:30px;"> move your mouse above the part to create a horizontal dimension, click and enter 9 mm. Repeat in the vertical direction and enter 14 mm. **Click** on the green **Finish Sketch** button on the top right of the navigation bar.
     
-    <img src="images/act-5/p2-1-7.png" alt="peg" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-5/p2-1-7.png" alt="peg" style="float:right;width:180px;margin-left:10px;">
     
     -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:30px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
     -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:30px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
 
-    <img src="images/act-5/p2-2.png" alt="rectangle sketch 2" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-5/p2-2.png" alt="rectangle sketch 2" style="float:right;width:180px;margin-left:10px;">
 
 2.  Make a hole in the other side of the femur:
     -   Hide **Body1** by clicking the eye in the design tree and unhide **Body2.**
