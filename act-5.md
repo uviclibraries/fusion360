@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-<img src="images/act-5/0.png" alt="bo-o-o-o-one?!" style="float:right;width:330px;margin-left:10px;">
+<img src="images/act-5/0.png" alt="bo-o-o-o-one?!" style="float:right;width:360px;margin-left:10px;">
 
 # **Split a Long Object in Fusion 360 (Part 1: Simple Split)**
 
