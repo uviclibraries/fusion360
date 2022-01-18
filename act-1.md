@@ -37,10 +37,10 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Revolve** <img src="images/act-1/4-2.png" alt="revolve icon" style="width:25px;"> is used for rotating a sketch around an axis to create a 3D feature. Make round parts using a revolve instead of a series of extrudes. Then you only need to edit one sketch.
     -   **Hole** <img src="images/act-1/4-3.png" alt="hole icon" style="width:25px;"> is a quick way to make several of the same hole type such as a clearance or threaded hole for a screw.
     -   **Fillet/Chamfer** <img src="images/act-1/4-4.png" alt="fillet icon" style="width:25px;"> <img src="images/act-1/4-5.png" alt="chamfer icon" style="width:25px;"> are tools used to modify the edges of a part. These features should only be used at the very end of designing a part. Otherwise, the wrong edges may be selected for dimensioning or errors may be caused.
-
-    <img src="images/act-1/5.png" alt="measure tool" style="float:right;width:120px;margin-left:10px;">
-
 5.  Measuring
+    
+    <img src="images/act-1/5.png" alt="measure tool" style="float:right;width:120px;margin-left:10px;">
+    
     -   Sometimes you may want to quickly view a dimension without going into a sketch. Above the **Inspect** menu, click on the **Measure** <img src="images/act-1/5-2.png" alt="measure tool" style="width:30px;"> tool.
     -   **Click** on a surface, edge, or point. Geometric properties relating to that feature will appear.
     -   **Click** on a second surface, edge, or point. The distances between the two features will appear.
