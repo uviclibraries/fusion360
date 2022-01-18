@@ -19,7 +19,7 @@ This workshop is primarily hands-on practice with Fusion 360 in order to learn t
 -   [Understanding 3D Printer Accuracy](https://www.youtube.com/watch?v=lo3bZWNQp0w){:target="_blank"} (6 min)<br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lo3bZWNQp0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -   OPTIONAL: [How to 3D Model a Lego Brick](https://www.youtube.com/watch?v=DrLOPJq_stc){:target="_blank"} (7 min)<br>
-    <mark style="background-color:orange;"><b>Note:</b> The Lego video uses an older version of Fusion 360 so the locations of certain features are different.</mark><br>
+    <mark style="background-color:orange;"><b>Note:</b> The Lego brick video uses an older version of Fusion 360 so the locations of certain features may be different.</mark><br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DrLOPJq_stc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
