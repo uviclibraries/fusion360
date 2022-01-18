@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-3/0.png" alt="printed lego" style="float:right;width:360px;margin-left:10px;">
 
-# Create a Lego Brick
+# **Create a Lego Brick**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 1.  **Download** and **install** Fusion 360:
