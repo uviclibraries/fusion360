@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-5/0.png" alt="bo-o-o-o-one?!" style="float:right;width:330px;margin-left:10px;">
 
-# Split a Long Object in Fusion 360 (Part 1: Simple Split)
+# **Split a Long Object in Fusion 360 (Part 1: Simple Split)**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -59,7 +59,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 
 <img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:240px;margin-left:10px;">
-# Split a Long Object in Fusion 360 (Part 2: Interlocking Features)
+# **Split a Long Object in Fusion 360 (Part 2: Interlocking Features)**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
