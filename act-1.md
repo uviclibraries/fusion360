@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-1/1.png" alt="3d orientation" style="float:right;width:180px;margin-left:10px;">
 
-# Fusion 360 Tips, Tricks, and Good Practice
+# **Fusion 360 Tips, Tricks, and Good Practice**
 
 Fusion 360 has A LOT of features. Here’s a quick guide of tools and features to help get you started on your first project!
 
