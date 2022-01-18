@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-4/0.png" alt="modelled pushpin" style="float:right;width:360px;margin-left:10px;">
 
-# Create a Push Pin
+# **Create a Push Pin**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
