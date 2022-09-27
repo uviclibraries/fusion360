@@ -8,8 +8,8 @@ This workshop is primarily hands-on practice with Fusion 360 in order to learn t
 
 ## Download Fusion 360:
 -   Check your laptop specifications to ensure it’s able to run Fusion 360. System requirements are listed [here](https://autode.sk/2qg8ryB){:target="_blank"}
--   If your computer does not meet the specifications, no worries! You can borrow a laptop from the Music & Media desk in the library, which already has Fusion 360 installed.
--   As a student or educator, you can obtain a free license for 3 years. Follow [this link](https://bit.ly/2QvZKeb){:target="_blank"} to make an Autodesk account and download Fusion 360
+-   If your computer does not meet the specifications, no worries! You can borrow a laptop from the front desk in the library, which already has Fusion 360 installed.
+-   You can obtain a free license to use Fusion 360 for personal use. Go to the [Autodesk website](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360
 
 ## Videos:
 -   [Navigating the Fusion 360 Interface](https://www.youtube.com/watch?v=sZwM87-nsYA){:target="_blank"} (9 min)<br>

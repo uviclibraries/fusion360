@@ -14,7 +14,9 @@ nav_order: 1
 
 ## Why Fusion 360
 
-# **BETTER INTRO HERE**
+Fusion 360 is a powerful 3D Design software used by professionals and hobbyists.  Compared to beginner-friendly tools like TinkerCAD, Fusion 360 has a steeper learning curve but has more tools to design complex 3D objects.
+Compared to most other professional-level computer aided design (CAD) sofware, Fusion 360 is free for personal use.
+For more information on CAD software options, you can read this blog: [13 Best CAD Software of 2022](https://www.adamenfroy.com/cad-software){:target="_blank"}
 
 ## Learning objectives
 
@@ -25,7 +27,7 @@ At the end of this workshop, you will be able to:
 3.  Understand Fusion 360’s place in the world of CAD programs.
 4.  Design an object using professional CAD processes including making sketches, dimensioning sketches, and applying features.
 5.  Apply best practices while designing objects, including: defined sketches, clear dimensioning, design timeline organization and naming, and design for future editing.
-6.  Measure an object accurately using callipers.
+6.  Measure an object accurately using calipers.
 7.  Use measured dimensions to create a 3D model of an object.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

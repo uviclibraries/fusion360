@@ -13,7 +13,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 1.  Download & install Fusion 360.
     -   Check your laptop specs to ensure it’s able to run Fusion 360: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
-    -   Follow this link to make an Autodesk account and download Fusion 360: [https://bit.ly/2QvZKeb](https://bit.ly/2QvZKeb){:target="_blank"}
+    -   Follow this link to make an Autodesk account and download Fusion 360: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"}
 2.  Launch Fusion 360 and get familiar with how to move around.
     -   **Hold down** the **mouse wheel** and **drag** to **move.**
     -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
