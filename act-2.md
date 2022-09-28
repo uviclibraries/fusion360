@@ -24,7 +24,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-2/2.png" alt="calipers" style="float:right;width:360px;margin-left:10px;">
 
 3.  Measure the width of your phone
-    -   Ask the instructor for a calliper tool so that you can measure the width of your cell phone.
+    -   Ask the instructor for a caliper tool so that you can measure the width of your cell phone.
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
 

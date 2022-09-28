@@ -12,7 +12,7 @@ parent: Workshop Activities
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 1.  **Download** and **install** Fusion 360:
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
-    -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB) {:target="_blank"} to make an Autodesk account and download Fusion 360.
+    -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360.
 
     <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:330px;margin-left:10px;">
 
