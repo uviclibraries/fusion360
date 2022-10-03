@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Why Fusion 360
 
-Fusion 360 is a powerful 3D Design software used by professionals and hobbyists.  Compared to beginner-friendly tools like TinkerCAD, Fusion 360 has a steeper learning curve but has more tools to design complex 3D objects.
+Fusion 360 is a powerful 3D Design software used by professionals and hobbyists.  Compared to beginner-friendly tools like TinkerCAD, Fusion 360 offers tools to design more complex 3D objects.
 Compared to most other professional-level computer aided design (CAD) sofware, Fusion 360 is free for personal use.
 For more information on CAD software options, you can read this blog: [13 Best CAD Software of 2022](https://www.adamenfroy.com/cad-software){:target="_blank"}
 
