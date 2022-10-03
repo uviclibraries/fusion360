@@ -20,7 +20,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Scroll** the **mouse wheel** to **zoom** in and out.
     -   **Click** to **select.**
 2.  Changing the view of your workspace
-    -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or points to quickly see your design from different angles.
+    -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or corners to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
 3.  Sketch dimensioning
     

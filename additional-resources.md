@@ -10,6 +10,7 @@ nav_order: 10
     This is an excellent free series of instructional videos if you would like to learn to design other objects like: whiskey bottle, phone case, Ice cube tray, and much more!
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Full list of Fusion 360 Keyboard and Mouse Shortcuts: [Fusion 360 Shortcuts](https://www.autodesk.com/shortcuts/fusion-360){:target="_blank"} <br>
 
 ## Acknowledgements
 
