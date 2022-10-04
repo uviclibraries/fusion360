@@ -29,7 +29,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
     
-    <img src="images/act-1/3-2.png" alt="good sketch" style="float:right;width:280px;margin-left:10px;">
+    <img src="images/act-1/3-2b.png" alt="good sketch" style="float:right;width:280px;margin-left:10px;">
     
     -   The **Trim** tool <img src="images/act-1/3-3.png" alt="" style="width:25px;"> can be used to remove excess sketch lines. This keeps the sketch clean and makes extruding or revolving it easier.
 4.  Common features
@@ -77,6 +77,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
         <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;margin-left:10px;">
         -   If the outer dimensions of the part change, how do I want the other features to move with respect to the body?
         -   How should I setup a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
-    -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
+    <img src="images/act-1/timeline.gif" alt="using the timeline" style="float:right;width:240px;margin-left:10px;">
+    -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
