@@ -23,7 +23,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or corners to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
 3.  Sketch dimensioning
-    <img src="images/act-1/3-2b.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/3-2b.png" alt="bad sketch" style="float:right;width:500px;margin-left:10px;">
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
     
