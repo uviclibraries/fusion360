@@ -49,20 +49,23 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 
 6.  Cross-section view
     -   Sometimes viewing an object through the middle of it is more useful than from the outside (e.g. in the bone-splitting activity, interlocking features are made). Viewing a cross-section is useful to ensure there is no interference between features.
+
+    <img src="images/act-1/6.png" alt="section analysis" style="float:right;width:180px;margin-left:10px;">
     -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
     
-    <img src="images/act-1/6.png" alt="drop down" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
     
-    -   To turn the feature on and off. Find the **Analysis** folder in the **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
+    -   To turn the feature on and off. Find the **Analysis** folder in the top left **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
 7.  Renaming features
     
     <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
     
-    -   The design **Timeline** can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
+    -   The design **Timeline** is at the bottom left of your screen and shows all changes made to your design.  It can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
     
-    <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     
+    <img src="images/act-1/7a.png" alt="rename feature" style="float:right;width:180px;margin-left:10px;">
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
+    <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 8.  Editing features
     -   A feature or sketch can be edited by **right-clicking** on it from the **Timeline**, then clicking **Edit Feature** or **Edit Sketch**. Dimensions and other parameters can then be changed.
@@ -71,11 +74,9 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     
     -   After you make a part, you will almost certainly need to go back and edit various aspects of it. Often, editing time will exceed initial designing time. Consider the following questions when doing the initial design:
         -   What dimensions are the most likely to be modified?
-        
         <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;margin-left:10px;">
-        
         -   If the outer dimensions of the part change, how do I want the other features to move with respect to the body?
-        -   How should I setup a feature such that it changes (or doesn’t) when other features change. (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
+        -   How should I setup a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
