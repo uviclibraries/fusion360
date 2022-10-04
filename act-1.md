@@ -24,12 +24,12 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
 3.  Sketch dimensioning
     
-    <img src="images/act-1/3.png" alt="bad sketch" style="float:right;width:280px;margin-left:10px;">
+    <img src="images/act-1/3-2b.png" alt="bad sketch" style="float:right;width:280px;margin-left:10px;">
     
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
     
-    <img src="images/act-1/3-2b.png" alt="good sketch" style="float:right;width:280px;margin-left:10px;">
+    <img src="images/act-1/3b.png" alt="good sketch" style="float:right;width:280px;margin-left:10px;">
     
     -   The **Trim** tool <img src="images/act-1/3-3.png" alt="" style="width:25px;"> can be used to remove excess sketch lines. This keeps the sketch clean and makes extruding or revolving it easier.
 4.  Common features
@@ -53,9 +53,8 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     <img src="images/act-1/6.png" alt="section analysis" style="float:right;width:180px;margin-left:10px;">
     -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
     
-    <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
-    
-    -   To turn the feature on and off. Find the **Analysis** folder in the top left **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
+    -   To turn the feature on and off, find the **Analysis** folder in the top left **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
+     <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
 7.  Renaming features
     
     <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
