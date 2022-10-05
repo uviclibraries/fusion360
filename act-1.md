@@ -28,7 +28,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
     
-    <img src="images/act-1/3b.PNG" alt="good sketch" style="float:right;width:280px;margin-left:10px;">
+    <img src="images/act-1/3b.PNG" alt="good sketch" style="float:right;width:240px;margin-left:10px;">
     <br>
     -   The **Trim** tool <img src="images/act-1/3-3.png" alt="" style="width:25px;"> can be used to remove excess sketch lines. This keeps the sketch clean and makes extruding or revolving it easier.
 4.  Common features
