@@ -63,6 +63,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     
     
     <img src="images/act-1/7a.png" alt="rename feature" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-1/rename.gif" alt="rename feature" style="float:right;width:180px;margin-left:10px;">
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
