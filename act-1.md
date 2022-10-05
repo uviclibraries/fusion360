@@ -51,10 +51,10 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 
     <img src="images/act-1/6.png" alt="section analysis" style="float:right;width:180px;margin-left:10px;">
     -   **Click** on the **Inspect** drop-down menu. Click on **Section Analysis. Click** on a plane that is parallel to the plane you want to view your object, then drag the cross-section plane to the area you want. Click **OK**.
-    
+    <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
     -   To turn the feature on and off, find the **Analysis** folder in the top left **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
-     <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
      <br>
+
 7.  Renaming features
     
     <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
@@ -62,7 +62,6 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   The design **Timeline** is at the bottom left of your screen and shows all changes made to your design.  It can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
     <img src="images/act-1/renaming.gif" alt="rename feature" style="float:right;width:280px;margin-left:10px;">
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
-    <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 8.  Editing features
     -   A feature or sketch can be edited by **right-clicking** on it from the **Timeline**, then clicking **Edit Feature** or **Edit Sketch**. Dimensions and other parameters can then be changed.
