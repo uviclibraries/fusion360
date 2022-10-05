@@ -60,7 +60,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
     
     -   The design **Timeline** is at the bottom left of your screen and shows all changes made to your design.  It can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
-    <img src="images/act-1/rename.gif" alt="rename feature" style="float:right;width:300px;margin-left:10px;">
+    <img src="images/act-1/renaming.gif" alt="rename feature" style="float:right;width:280px;margin-left:10px;">
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
