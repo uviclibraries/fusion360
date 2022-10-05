@@ -23,13 +23,12 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   In the top right corner of the workspace there is a cube. **Click** on different faces, edges, or corners to quickly see your design from different angles.
     -   At the bottom of the screen there’s a toolbar. **Click** the **Grids and Snaps** icon to change these features.
 3.  Sketch dimensioning
-    <img src="images/act-1/3-2b.PNG" alt="bad sketch" style="float:right;width:240px;margin-left:10px;"> <br>
+    <img src="images/act-1/3-2b.PNG" alt="bad sketch" style="float:right;width:280px;margin-left:10px;"> <br>
     -   Sketch lines will show up as blue or black, depending on how they’re dimensioned. Black lines are fully defined, meaning the line’s length and position has been completely described by dimensions. Blue lines are under-defined, meaning at least one dimension is missing. It’s best to have fully defined lines because they are controlled and cannot be accidentally moved.
-    <img src="images/act-1/3.png" alt="bad dimensioning" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-1/3.png" alt="bad dimensioning" style="float:right;width:200px;margin-left:10px;">
     -   Dimension sketches such that they’re easy to read. They will likely need to be edited later.
     
-    <img src="images/act-1/3b.PNG" alt="good sketch" style="float:right;width:240px;margin-left:10px;">
-    <br>
+    <img src="images/act-1/3b.PNG" alt="trimmed sketch" style="float:right;width:280px;margin-left:10px;">
     -   The **Trim** tool <img src="images/act-1/3-3.png" alt="" style="width:25px;"> can be used to remove excess sketch lines. This keeps the sketch clean and makes extruding or revolving it easier.
 4.  Common features
     <img src="images/act-1/extrude.gif" alt="extrusion" style="float:right;width:280px;margin-left:10px;">
@@ -55,15 +54,13 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     
     -   To turn the feature on and off, find the **Analysis** folder in the top left **Browser**. Click the eye next to the **Section** to turn its visibility on or off.
      <img src="images/act-1/6-3.png" alt="analysis drop down" style="float:right;width:180px;margin-left:10px;">
+     <br>
 7.  Renaming features
     
     <img src="images/act-1/6-2.png" alt="design timeline" style="float:right;width:240px;margin-left:10px;">
     
     -   The design **Timeline** is at the bottom left of your screen and shows all changes made to your design.  It can quickly get messy, especially when designing parts with a lot of features. Renaming features helps to remind you of the feature’s purpose.
-    
-    
-    <img src="images/act-1/7a.png" alt="rename feature" style="float:right;width:180px;margin-left:10px;">
-    <img src="images/act-1/rename.gif" alt="rename feature" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-1/rename.gif" alt="rename feature" style="float:right;width:300px;margin-left:10px;">
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     <img src="images/act-1/7.png" alt="feature in timeline" style="float:right;width:180px;margin-left:10px;">
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
