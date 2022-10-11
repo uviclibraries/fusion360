@@ -31,8 +31,8 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
-    -   **Select** **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
-    -   On the top-right menu, **select File,** and then **New Design.**
+    -   **Select** **Design** under General from the left side of the preferences window (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
+    -   To start a new design: **click the +** on the top right.  OR **click File** in the top-left, then **New Design.**
 
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
