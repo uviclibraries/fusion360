@@ -28,7 +28,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
 
-    <img src="images/act-2/3-2.gif" alt="first sketch" style="float:right;width:360px;margin-left:10px;">
+    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:360px;margin-left:10px;">
 
 4.  Create the basic shape of the phone stand:
     -   Start a new sketch by **clicking** the **Create Sketch** icon <img src="images/act-2/4.png" alt="create sketch icon" style="width:25px;">. It will prompt you to select a plane. A good practice is to **select the plane** from which the object would be viewed in real life. In this case, the **top plane** or horizontal plane is desired because that is how the object will be 3D printed.
@@ -67,7 +67,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     
-    <img src="images/act-2/5-9.png" alt="extrude pop up" style="float:right;width:280px;margin-left:10px;">
+    <img src="images/act-2/5-5c.gif" alt="extrude pop up" style="float:right;width:280px;margin-left:10px;">
     
     -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK** (see images below for more details).
 
