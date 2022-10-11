@@ -16,7 +16,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:330px;margin-left:10px;">
 
-2.  Measure a Lego brick. Record the values to two decimal places.  For dimension **“C”**, include the thickness of the small nubs.  If you don't have a lego brick, here are the dimensions you’ll need:
+2.  Measure a Lego brick. Record the values to two decimal places.  If you don't have a lego brick, here are the dimensions you’ll need:
     -   A: 6.314 mm
     -   B: 5.314 mm
     -   C: 1.49 mm
@@ -25,7 +25,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   F: 5.0 mm
     -   G: 31.8 mm
     -   H: 15.8 mm
-    
+
 3.   Create a new part:
     -   **Open** Fusion 360
     
@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** **Design** under General from the left side of the preferences window (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
-    -   To start a new design: **click the +** on the top right.  OR **click File** in the top-left, then **New Design.**
+    -   To start a new design: **click the +** on the top right.  OR **click File in the top-left, then **New Design.**
 
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
