@@ -28,7 +28,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
 
-    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:360px;margin-left:10px;">
+    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:400px;margin-left:10px;">
 
 4.  Create the basic shape of the phone stand:
     -   Start a new sketch by **clicking** the **Create Sketch** icon <img src="images/act-2/4.png" alt="create sketch icon" style="width:25px;">. It will prompt you to select a plane. A good practice is to **select the plane** from which the object would be viewed in real life. In this case, the **top plane** or horizontal plane is desired because that is how the object will be 3D printed.
