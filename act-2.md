@@ -42,7 +42,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
     
-    <img src="images/act-2/4-7b.gif" alt="extrude the rectangle" style="width:380px;">
+    <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:380px;">
     <img src="images/act-2/4-6.png" alt="extruded rectangle" style="width:330px;">
     
 5.  Cut out slot for phone and hole for your keychain.
