@@ -46,8 +46,8 @@ If you or your group have any questions or get stuck as you work through this in
     
 5.  Cut out a slot for your phone and hole for your keychain.
     
+    <img src="images/act-2/5bcrop.gif" alt="slot and hole sketch" style="float:right;width:420px;margin-left:10px;">
     <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
-    <img src="images/act-2/5b.gif" alt="defined rectangle" style="float:right;width:420px;margin-left:10px;">
     
     -   **Click** on the **top face** of the object then **click** the **Create Sketch** tool <img src="images/act-2/5.png" alt="create sketch tool" style="width:25px;">.
     -   **Click** on the **2-Point Rectangle** tool. **Click** on the **top line** of the rectangle to constrain the first point of the rectangle to it and **click lower and to the right** of the first point.
