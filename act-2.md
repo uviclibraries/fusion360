@@ -47,7 +47,7 @@ If you or your group have any questions or get stuck as you work through this in
 5.  Cut out a slot for your phone and hole for your keychain.
     
     <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
-    <img src="images/act-2/5b.gif" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-2/5b.gif" alt="defined rectangle" style="float:right;width:420px;margin-left:10px;">
     
     -   **Click** on the **top face** of the object then **click** the **Create Sketch** tool <img src="images/act-2/5.png" alt="create sketch tool" style="width:25px;">.
     -   **Click** on the **2-Point Rectangle** tool. **Click** on the **top line** of the rectangle to constrain the first point of the rectangle to it and **click lower and to the right** of the first point.
@@ -61,16 +61,19 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter **5 mm**. **Click** on the **center of the circle** and then **click on the left line** of the rectangle, enter **4 mm**. **Click** on the **center of the circle** and then **click** on the **top line of the rectangle**, enter **4 mm**.
     
-    <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="float:right;width:420px;margin-left:10px;">
     
     -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     
-    <img src="images/act-2/5-5c.gif" alt="extrude cut" style="float:right;width:400px;margin-left:10px;">
+    <img src="images/act-2/5-5c.gif" alt="extrude cut" style="float:right;width:420px;margin-left:10px;">
     
     -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK** (see images below for more details).
 
 6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers to the end of the part._
+
+    <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="float:right;width:420px;margin-left:10px;">
+
     -   **Click** on the **Fillet** tool on the top menu <img src="images/act-2/6.png" alt="fillet tool" style="width:25px;">. **Click** on the **6 outside vertical corner edges** of the rectangle in turn and **change** the **fillet radius** to **3 mm** for all of them.
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
