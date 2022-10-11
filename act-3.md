@@ -25,6 +25,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   F: 5.0 mm
     -   G: 31.8 mm
     -   H: 15.8 mm
+    
 3.   Create a new part:
     -   **Open** Fusion 360
     
