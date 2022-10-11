@@ -28,7 +28,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
 
-    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:400px;margin-left:10px;">
+    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:420px;margin-left:10px;">
 
 4.  Create the basic shape of the phone stand:
     -   Start a new sketch by **clicking** the **Create Sketch** icon <img src="images/act-2/4.png" alt="create sketch icon" style="width:25px;">. It will prompt you to select a plane. A good practice is to **select the plane** from which the object would be viewed in real life. In this case, the **top plane** or horizontal plane is desired because that is how the object will be 3D printed.
@@ -42,10 +42,9 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
     
-    <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:380px;">
-    <img src="images/act-2/4-6.png" alt="extruded rectangle" style="width:330px;">
+    <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:420px;">
     
-5.  Cut out slot for phone and hole for your keychain.
+5.  Cut out a slot for your phone and hole for your keychain.
     
     <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
     <img src="images/act-2/5b.gif" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
