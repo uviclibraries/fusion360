@@ -63,15 +63,13 @@ If you or your group have any questions or get stuck as you work through this in
 
 7.  Add circles to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
-    
-    <img src="images/act-3/8-3.png" alt="circles placement" style="float:right;width:240px;margin-left:10px;">
-    
-    -   In the **Sketch Palette,** on the far right, **click** the **Construction** icon <img src="images/act-3/8.png" alt="construction icon" style="width:25px;">. Then **select Line** <img src="images/act-3/8-2.png" alt="line tool" style="width:25px;"> from the sketch tools on the top menu. Click the center of the top-left circle, then click the center of the circle diagonal to it. **Click** the **Esc** key to exit the Line tool. **Click** on the **Center Diameter Circle** tool. Hover over the middle of the line until a blue triangle appears. Click to place the center of a circle in the middle of the line, click again to make a circle. Repeat this once again, making this circle slightly smaller.
+    -   In the **Sketch Palette,** on the far right, **click** the **Construction** icon <img src="images/act-3/8.png" alt="construction icon" style="width:25px;">. Then **select Line** <img src="images/act-3/8-2.png" alt="line tool" style="width:25px;"> from the sketch tools on the top menu. Click the center of the top-left circle, then click the center of the circle diagonal to it. **Click** the **Esc** key to exit the Line tool. 
+    -   **Click** on the **Center Diameter Circle** tool. Hover over the middle of the line until a blue triangle appears. Click to place the center of a circle in the middle of the line, click again to make a circle. Repeat to make a smaller circle inside the first.
     -   **Click** on the **Sketch Dimension** tool. Click on one circle and enter **“A”.** Click on the other and enter **“B”.**
-    
+    <img src="images/act-3/8-3.png" alt="circles placement" style="float:right;width:240px;margin-left:10px;">
     <img src="images/act-3/8-4.png" alt="edit feature pop up" style="float:right;width:240px;margin-left:10px;">
     
-    -   **Click** over to the **Solid** tab. **Click** on the **Extrude** feature. Select the area between the two circles. Change the **Extent** to **To Object.** Select the space between the two outer rectangles (see where the second red arrow is pointing) as the **Object.** Then **click OK** in the **Extrude** pop-up box.
+    -   **Click** over to the **Solid** tab. **Click** on the **Extrude** feature. Select the area between the two circles. Change the **Extent** to **To Object.** Select the space between the two outer rectangles (where the red arrow is pointing) as the **Object.** Then **click OK** in the **Extrude** pop-up box.
     -   **Click** on the **Create** drop-down menu. **Click** on **Pattern** to show a second menu. Select the **Rectangular Pattern.** Change the **Pattern Type** to **Features.** Select the newly-created cylinder. **Click** on the arrow next to **Directions. Click** on the **red axis** near the corner of the part. Enter **16 mm** as the **Distance.** Ensure **Quantity** is **3. Click OK.**
 8.  Chamfer. Let’s add a small chamfer to specific edges to make 3D printing and assembly easier. Click on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool icon" style="width:25px;">. Select all the edges highlighted in blue shown in the pictures. Enter **0.25 mm** as the **Distance. Click OK.**
 
