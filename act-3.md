@@ -32,7 +32,8 @@ If you or your group have any questions or get stuck as you work through this in
 
      <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
-    -   To start a new design: **click the +** on the top right.  OR **click File in the top-left, then **New Design.**
+    -   To start a new design: **click the +** on the top right.  
+    OR **click File** in the top-left, then **New Design.**
 
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
@@ -54,7 +55,9 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:360px;margin-left:10px;">
     
-    -   **Click** on the **Create** drop-down menu. Click on the **Rectangular Pattern** tool <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">. **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
+    -   **Click** on the **sketch** tab then **Click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. Note:_there are sketch pattern tools and solid pattern tools.  Make sure you're in the correct menu!_
+     <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
+     -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 6.  Hollow it out: Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
 
