@@ -44,14 +44,13 @@ If you or your group have any questions or get stuck as you work through this in
     -   Select the **Sketch Dimension** tool <img src="images/act-3/5-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse slightly** above the line and **click** again. **Enter** your measured **“G”** as the dimension. **Repeat** with the right line, but enter **“H”**.
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
 
-    <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;">
-
 5.  Add connectors
-    <img src="images/act-3/5-7.gif" alt="sketching circle" style="float:right;width:420px;margin-left:10px;">
+    <img src="images/act-3/5-7.gif" alt="sketching circle" style="float:right;width:450px;margin-left:10px;">
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
+     <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;"><br>
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:25px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
-    <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:420px;margin-left:10px;">
+    <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:450px;margin-left:10px;">
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:360px;margin-left:10px;">
 
     -   **Click** on the **sketch** tab then **Click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
