@@ -29,7 +29,7 @@ If you or your group have any questions or get stuck as you work through this in
 3.   Create a new part: 
 
     <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
-    -   **Open** Fusion 360.
+    -   Open Fusion 360.
     -   **Click** on your **name** in the top-right of the screen, then **click** **Preferences.**
 
     <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
