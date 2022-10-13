@@ -30,7 +30,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
     -   Open Fusion 360.
-    -   **Click** on your **name** in the top-right of the screen, then **click** **Preferences.**
+    -   **Click** on your **name** icon <img src="images/act-3/3-3.png" alt="name icon" style="width:25px;"> in the top-right of the screen, then **click** **Preferences.**
 
     <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
