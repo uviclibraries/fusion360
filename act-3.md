@@ -26,7 +26,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   G: 31.8 mm
     -   H: 15.8 mm
 
-3.   Create a new part: <br>
+3.   Create a new part: 
+    <img src="images/act-3/3-2.png" alt="menus to design" style="float:right;width:420px;margin-left:10px;">
     -   **Open** Fusion 360.
     -   **Click** on your **name** in the top-right of the screen, then **click** **Preferences.**
 
