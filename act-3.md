@@ -46,7 +46,6 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
 
 5.  Sketch a connector
-    <img src="images/act-3/5-7.gif" alt="sketching circle" style="float:right;width:500px;margin-left:10px;"> 
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
      <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;">
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:25px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
