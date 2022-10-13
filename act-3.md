@@ -31,18 +31,17 @@ If you or your group have any questions or get stuck as you work through this in
 3.   Create a new part:
     - Open Fusion 360.
     - **Click** on your **name** icon <img src="images/act-3/3-3.png" alt="name icon" style="width:25px;"> in the top-right of the screen, then **click** **Preferences.**
-
     <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
-
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
+
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
 4.  Make the main body:
     -   **Select** the **Create Sketch** feature <img src="images/act-3/5.png" alt="create sketch tool" style="width:25px;">. **Select** the **Top** plane.
     -   **Select** the **2-Point Rectangle**  tool. **Click** on the **origin,** then **click** somewhere **above and to the right. Click** the **Esc** key to exit the 2-Point Rectangle tool.
     
-    <img src="images/act-3/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
+    <img src="images/act-3/5-3.png" alt="rectangle" style="float:right;width:240px;margin-left:10px;">
     
     -   Select the **Sketch Dimension** tool <img src="images/act-3/5-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse slightly** above the line and **click** again. **Enter** your measured **“G”** as the dimension. **Repeat** with the right line, but enter **“H”**.
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
