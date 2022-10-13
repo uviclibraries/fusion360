@@ -27,7 +27,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   H: 15.8 mm
 
 3.   Create a new part: 
-    <img src="images/act-3/3-2.png" alt="menus to design" style="float:right;width:420px;margin-left:10px;">
+    <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:450px;margin-left:10px;">
     -   **Open** Fusion 360.
     -   **Click** on your **name** in the top-right of the screen, then **click** **Preferences.**
 
@@ -45,9 +45,9 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
 
 5.  Add connectors
-    <img src="images/act-3/5-7.gif" alt="sketching circle" style="float:right;width:450px;margin-left:10px;">
+    <img src="images/act-3/5-7.gif" alt="sketching circle" style="float:right;width:450px;margin-left:10px;"> 
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
-     <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;"><br>
+     <img src="images/act-3/5-6.png" alt="defined circle" style="float:right;width:240px;margin-left:10px;">
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:25px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
     <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:450px;margin-left:10px;">
