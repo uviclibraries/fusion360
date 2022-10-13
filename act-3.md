@@ -31,12 +31,10 @@ If you or your group have any questions or get stuck as you work through this in
 3.   Create a new part:
     - Open Fusion 360.
     - **Click** on your **name** icon <img src="images/act-3/3-3.png" alt="name icon" style="width:25px;"> in the top-right of the screen, then **click** **Preferences.**
-    <img src="images/act-3/3.png" alt="menus to design" style="float:right;width:240px;margin-left:10px;">
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
-
+    
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
-
 4.  Make the main body:
     -   **Select** the **Create Sketch** feature <img src="images/act-3/5.png" alt="create sketch tool" style="width:25px;">. **Select** the **Top** plane.
     -   **Select** the **2-Point Rectangle**  tool. **Click** on the **origin,** then **click** somewhere **above and to the right. Click** the **Esc** key to exit the 2-Point Rectangle tool.
@@ -75,14 +73,15 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** over to the **Solid** tab. **Click** on the **Extrude** feature. Select the area between the two circles. Change the **Extent** to **To Object.** Select the space between the two outer rectangles (where the red arrow is pointing) as the **Object.** Then **click OK** in the **Extrude** pop-up box.
     -   **Click** on the **Create** drop-down menu. **Click** on **Pattern** to show a second menu. Select the **Rectangular Pattern.** Change the **Pattern Type** to **Features.** Select the newly-created cylinder. **Click** on the arrow next to **Directions. Click** on the **red axis** near the corner of the part. Enter **16 mm** as the **Distance.** Ensure **Quantity** is **3. Click OK.**
+
 9.  Chamfer. Let’s add a small chamfer to specific edges to make 3D printing and assembly easier. Click on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool icon" style="width:25px;">. Select all the edges highlighted in blue shown in the pictures. Enter **0.25 mm** as the **Distance. Click OK.**
 
     <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:330px;">
     <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:330px;">
     <img src="images/act-3/9-4.gif" alt="lego chamfers" style="width:500px;">
+
 10.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. Congratulations! You can now 3D print a Lego!
 
-    <br>
     **OPTIONAL:** Optimize your lego piece for 3D printing
 
 11.  Chamfer circle pieces on the bottom of the lego piece. This makes it easier for the studs at the top of one brick to be guided into the bottom of another without having the studs catch on the edges.
