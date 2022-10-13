@@ -26,7 +26,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   G: 31.8 mm
     -   H: 15.8 mm
 
-<img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
+    <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
 
 3.   Create a new part:
     - Open Fusion 360.
@@ -54,7 +54,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:500px;margin-left:10px;">
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:360px;margin-left:10px;">
 
-6. Add connectors with Pattern tool
+6. Add connectors with the Pattern tool
     -   **Click** on the **sketch** tab then **Click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
     Note: _there are two rectangular pattern tools, one in the sketch tab and in the solid tab.  Make sure you're using the correct (sketch) tool!_
      -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
@@ -63,7 +63,7 @@ If you or your group have any questions or get stuck as you work through this in
 7.  Hollow it out: Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
 
     <img src="images/act-3/7-2.png" alt="underside lego in progress" style="width:240px;">
-    <img src="images/act-3/6-4.png" alt="shelling" style="width:500px;">
+    <img src="images/act-3/6-4.gif" alt="shelling" style="width:500px;">
 
 8.  Add circles to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
