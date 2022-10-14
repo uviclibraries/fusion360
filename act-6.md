@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-5/0.png" alt="bo-o-o-o-one?!" style="float:right;width:360px;margin-left:10px;">
 
-# **Designing from a reference image [UNDER CONSTRUCTION]**
+# **Create Part from a Reference Image [UNDER CONSTRUCTION]**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 

@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
     
-    <img src="images/act-4/3-2.png" alt="initial lines" style="width:720px;">
+    <img src="images/act-4/3-2.png" alt="initial lines" style="width:520px;margin-left:10px;">
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
     -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="line tool" style="width:25px;">. **Click** on one **circle,** then **click** on the **second circle.**
