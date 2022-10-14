@@ -17,8 +17,6 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/0-2a.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
    
 2.  **Measure** a Lego brick. Record the values to two decimal places.  If you don't have a lego brick, here are the dimensions you’ll need:
-    <img src="images/act-3/0-2b.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
-    
     -   A: 6.314 mm
     -   B: 5.314 mm
     -   C: 1.49 mm
@@ -27,6 +25,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   F: 5.0 mm
     -   G: 31.8 mm
     -   H: 15.8 mm    
+    <img src="images/act-3/0-2b.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
     
 3.  Create a new part:
     -   Open Fusion 360.
