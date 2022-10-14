@@ -25,6 +25,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
     -   On the top-right menu, **select File,** and then **New Design.**
+
 3.  Make the plastic part of the push pin:
     -   **Select** the **Create Sketch** <img src="images/act-4/3.png" alt="create sketch tool" style="width:25px;"> feature. **Select** the **Top** plane.
     -   **Select** the **Line** tool <img src="images/act-4/3-3.png" alt="line tool" style="width:25px;">. Make a “U” shape with lines by clicking on the green axis, then on the origin, then on the red axis, then straight up from that point. **Click** the **Esc** key to exit the Line tool.
@@ -33,7 +34,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
     
-    <img src="images/act-4/3-2.png" alt="initial lines" style="width:520px;margin-left:10px;">
+    <img src="images/act-4/3-2.png" alt="initial lines" style="width:620px;margin-left:10px;">
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
     -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="line tool" style="width:25px;">. **Click** on one **circle,** then **click** on the **second circle.**
@@ -42,7 +43,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
     
-    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="width:720px;">
+    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="width:620px;">
     
     <img src="images/act-4/3-92.png" alt="revolved pushpin" style="float:right;width:240px;margin-left:10px;">
     
@@ -75,10 +76,11 @@ If you or your group have any questions or get stuck as you work through this in
     
 7.  Congratulations! You have modelled an assembly of two components in Fusion!
 
-    <br>
-    **OPTIONAL:** Add appearances to the components of the push pin.
 
-8.  **Click** on the **Modify** drop-down menu and select **Appearance.** Scroll down to the bottom of the window. **Click** on the **Metal** folder, then on the **Steel** folder, drag the **Steel-Cast** block and drop it onto the pin. **Click** on the **Plastic** folder, drag and drop the **ABS(White)** block onto the plastic part of the pushpin. If you want, you can try to make a render of the pushpin by clicking on **Design** in the top-left corner and selecting **Render.**
+8.  **OPTIONAL:** Add appearances to the components of the push pin.
+    -   **Click** on the **Modify** drop-down menu and select **Appearance.** Scroll down to the bottom of the window. 
+    -   **Click** on the **Metal** folder, then on the **Steel** folder, drag the **Steel-Cast** block and drop it onto the pin. 
+    -   **Click** on the **Plastic** folder, drag and drop the **ABS(White)** block onto the plastic part of the pushpin. If you want, you can try to make a render of the pushpin by clicking on **Design** in the top-left corner and selecting **Render.**
 
 [NEXT STEP: Splitting an Object Found Online](act-5.html){: .btn .btn-blue }
 
