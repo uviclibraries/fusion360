@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Make a part from a reference image [UNDER CONSTRUCTION]
+title: 6-Create a Part from a Reference Image [UNDER CONSTRUCTION]
 nav_order: 7
 parent: Workshop Activities
 ---
