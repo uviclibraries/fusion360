@@ -31,10 +31,11 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on your **name** icon <img src="images/act-3/3-3.png" alt="name icon" style="width:25px;"> in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
-    <!-->
+    <!--
     <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
 
-    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">-->
+    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
+    -->
 
 4.  Make the main body:
     -   **Select** the **Create Sketch** feature <img src="images/act-3/5.png" alt="create sketch tool" style="width:25px;">. **Select** the **Top** plane.
