@@ -14,7 +14,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360.
 
-    <img src="images/act-3/0-2.png" alt="lego schematics" style="float:right;width:330px;margin-left:10px;">
+    <img src="images/act-3/0-2a.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
+    <img src="images/act-3/0-2b.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
 
 2.  Measure a Lego brick. Record the values to two decimal places.  If you don't have a lego brick, here are the dimensions you’ll need:
     -   A: 6.314 mm
@@ -26,17 +27,16 @@ If you or your group have any questions or get stuck as you work through this in
     -   G: 31.8 mm
     -   H: 15.8 mm
 
+
+    <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
+    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
+
 3.   Create a new part:
     -   Open Fusion 360.
     -   **Click** on your **name** icon <img src="images/act-3/3-3.png" alt="name icon" style="width:25px;"> in the top-right of the screen, then **click** on **Preferences.**
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
-    <!--
-    <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:500px;margin-left:10px;">
-
-    <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
-    -->
-
+    
 4.  Make the main body:
     -   **Select** the **Create Sketch** feature <img src="images/act-3/5.png" alt="create sketch tool" style="width:25px;">. **Select** the **Top** plane.
     -   **Select** the **2-Point Rectangle**  tool. **Click** on the **origin,** then **click** somewhere **above and to the right. Click** the **Esc** key to exit the 2-Point Rectangle tool.
