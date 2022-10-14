@@ -18,6 +18,7 @@ If you or your group have any questions or get stuck as you work through this in
    
 2.  **Measure** a Lego brick. Record the values to two decimal places.  If you don't have a lego brick, here are the dimensions you’ll need:
     <img src="images/act-3/0-2b.png" alt="lego schematics" style="float:right;width:320px;margin-left:10px;">
+    
     -   A: 6.314 mm
     -   B: 5.314 mm
     -   C: 1.49 mm
@@ -60,7 +61,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
   <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:720px;">
-  
+
 7.  Hollow it out: 
     -   Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. 
     -   Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
