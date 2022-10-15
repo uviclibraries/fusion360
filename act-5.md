@@ -50,22 +50,17 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Note:** One of the original planes can also be used to split the part but often the original planes do not intersect the part where the separation is desired, so this method was used as a demonstration.
     -   **Note:** Notice that in the design tree there are now two bodies.
 6.  Export as separate STL files:
+    <img src="images/act-5/6a.png" alt="save as mesh" style="float:right;width:180px;margin-left:10px;">
     -   Right-click on **Body1** in the design tree. Select **Save As Mesh**.  Select .stl as the Format and  **Click OK** in the pop-up box. Save it in your desired location.
-    
-    <img src="images/act-5/6a.png" alt="save as stl" style="float:right;width:180px;margin-left:10px;">
-    
     -   Repeat with **Body 2.**
     -   Click on the **Save** button to save your Fusion 360 file.
     -   Congratulations! You now have a printable femur!
 
-<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:200px;margin-left:10px;">
-
 # **Split a Long Object in Fusion 360 (Part 2: Interlocking Features)**
-
-<img src="images/act-5/p2-1b.png" alt="all seeing eye" style="float:right;width:180px;margin-left:10px;">
+<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:180px;margin-left:10px;">
 
 1.  Add a rectangular “peg” to one side of the femur:
-    -   Hide **Body2** by going to the left panel and **clicking** the **eye** or **lightbulb** next to it on the design tree (see right).
+    -   Hide **Body2** by going to the left panel and **clicking** the **eye** or **lightbulb** next to it on the design tree.<img src="images/act-5/p2-1b.png" alt="all seeing eye" style="float:right;width:180px;margin-left:10px;">
     -   In the top right corner, **click** on the **Right** face of the view cube to rotate the bone. While in this view, **click** on the **cut face of the bone** and **click** on the **Create Sketch** tool <img src="images/act-5/p2-1-2.png" alt="create sketch tool" style="width:25px;">.
     
     <img src="images/act-5/p2-1-3.png" alt="rectangle sketch" style="float:right;width:240px;margin-left:10px;">
