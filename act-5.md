@@ -62,7 +62,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 # **Split a Long Object in Fusion 360 (Part 2: Interlocking Features)**
 
-<img src="images/act-5/p2-1.png" alt="all seeing eye" style="float:right;width:180px;margin-left:10px;">
+<img src="images/act-5/p2-1b.png" alt="all seeing eye" style="float:right;width:180px;margin-left:10px;">
 
 1.  Add a rectangular “peg” to one side of the femur:
     -   Hide **Body2** by going to the left panel and **clicking** the **eye** or **lightbulb** next to it on the design tree (see right).
