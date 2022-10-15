@@ -22,8 +22,6 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on your **name** in the top-right of the screen, then **click** on **Preferences.**
     
     <img src="images/act-4/2-2.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
-    
-    -   **Select** **Design** (see above). Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK.**
     -   On the top-right menu, **select File,** and then **New Design.**
 
 3.  Make the plastic part of the push pin:

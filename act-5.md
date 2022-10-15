@@ -34,7 +34,8 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-5/4.png" alt="insert mesh" style="float:right;width:180px;margin-left:10px;">
     
     -   In the **INSERT MESH** pop-up box on the right ensure the **Unit Type** is in **mm,** click on the **Center** button <img src="images/act-5/4-2.png" alt="center button" style="width:25px;"> (two places below Unit Type) and then **OK.**
-    -   Now the model is a mesh body, but not a solid body that can be edited. **Right-click** anywhere on the **bone,** select **Mesh to BRep. Click OK** in the pop-up box.
+    -   Now the model is a mesh body, but not a solid body that can be edited. **Click** on the **Mesh** tab at the top, then from the **Modify** drop down select **Convert Mesh**.  **Click** the femur body, then ensure ***Operation** is **Parametric** and **Method** is **Faceted**.
+    <img src="images/act-5/4-3.png" alt="menus" style="float:right;width:240px;margin-left:10px;">
     -   **Right-click** on the **document name** again. At the bottom of the pop-up **select Capture Design History.** This allows you to go back and edit the features you create.
 
     <img src="images/act-5/5.png" alt="planes" style="float:right;width:240px;margin-left:10px;">
@@ -49,19 +50,17 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Note:** One of the original planes can also be used to split the part but often the original planes do not intersect the part where the separation is desired, so this method was used as a demonstration.
     -   **Note:** Notice that in the design tree there are now two bodies.
 6.  Export as separate STL files:
-    -   Right-click on **Body1** in the design tree. Select **Save As STL. Click OK** in the pop-up box. Save it in your desired location.
+    -   Right-click on **Body1** in the design tree. Select **Save As Mesh**.  Select .stl as the Format and  **Click OK** in the pop-up box. Save it in your desired location.
     
-    <img src="images/act-5/6.png" alt="save as stl" style="float:right;width:180px;margin-left:10px;">
+    <img src="images/act-5/6a.png" alt="save as stl" style="float:right;width:180px;margin-left:10px;">
     
     -   Repeat with **Body 2.**
     -   Click on the **Save** button to save your Fusion 360 file.
     -   Congratulations! You now have a printable femur!
 
+<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:200px;margin-left:10px;">
 
-<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:240px;margin-left:10px;">
 # **Split a Long Object in Fusion 360 (Part 2: Interlocking Features)**
-
-If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 <img src="images/act-5/p2-1.png" alt="all seeing eye" style="float:right;width:180px;margin-left:10px;">
 
@@ -95,7 +94,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Right-click on **Body1** in the design tree. Select **Save As STL. Click OK** in the pop-up box. Save it in your desired location.
     -   Repeat with **Body 2.**
     -   **Click** on the **Save** button to save your Fusion 360 file.
-    
+
 **Congratulations! You now have a printable femur!**
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
