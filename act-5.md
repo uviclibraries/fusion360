@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-5/4.png" alt="insert mesh" style="float:right;width:180px;margin-left:10px;">
     
-    -   In the **INSERT MESH** pop-up box on the right ensure the **Unit Type** is in **mm,** click on the **Center** button <img src="images/act-5/4-2.png" alt="center button" style="width:25px;"> (two places below Unit Type) and then **OK.**
+    -   In the **Insert Mesh** pop-up box on the right ensure the **Unit Type** is in **mm,** click on the **Center** button <img src="images/act-5/4-2.png" alt="center button" style="width:25px;"> then **OK.**
     -   Now the model is a mesh body, but not a solid body that can be edited. **Click** on the **Mesh** tab at the top, then from the **Modify** drop down select **Convert Mesh**.  **Click** the femur body, then ensure **Operation** is **Parametric** and **Method** is **Faceted**.
     <img src="images/act-5/4-3.png" alt="menus" style="float:right;width:240px;margin-left:10px;">
     -   **Right-click** on the **document name** again. At the bottom of the pop-up **select Capture Design History.** This allows you to go back and edit the features you create.
@@ -49,8 +49,8 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-5/5-3.png" alt="split body pop up" style="float:right;width:240px;margin-left:10px;">
     
-    -   **Note:** One of the original planes can also be used to split the part but often the original planes do not intersect the part where the separation is desired, so this method was used as a demonstration.
-    -   **Note:** Notice that in the design tree there are now two bodies.
+    -   **Note:** _One of the original planes can also be used to split the part but often the original planes don't intersect the part where we want them, so here we use this method for demonstration._
+    -   **Note:** _Notice that in the design tree there are now two bodies._
     <img src="images/act-5/5-4.gif" alt="split the bone" style="width:720px;">
 
 6.  Export as separate STL files:
@@ -79,10 +79,12 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
     -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
 
-    <img src="images/act-5/p2-2.png" alt="rectangle sketch 2" style="float:right;width:180px;margin-left:10px;">
     <img src="images/act-5/p2-1-9.gif" alt="create a peg" style="width:720px;">
 
 2.  Make a hole in the other side of the femur:
+
+    <img src="images/act-5/p2-2.png" alt="rectangle sketch 2" style="float:right;width:180px;margin-left:10px;">
+
     -   Hide **Body1** by clicking the eye in the design tree and unhide **Body2.**
     -   In the top right corner, click on the **Left** face of the view cube. While in this view, click on the cut face of the bone and click on the **Create Sketch** tool.
     -   Make a sketch with dimensions in the picture to the right. Notice that it’s mirrored from the last sketch and that the rectangle is slightly bigger. When done, **Click** on the green **Finish Sketch** button on the top right of the navigation bar.

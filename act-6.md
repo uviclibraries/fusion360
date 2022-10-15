@@ -5,7 +5,7 @@ nav_order: 7
 parent: Workshop Activities
 ---
 
-<img src="images/act-5/0.png" alt="bo-o-o-o-one?!" style="float:right;width:360px;margin-left:10px;">
+<img src="images/act-6/VanIsle.png" alt="bo-o-o-o-one?!" style="float:right;width:360px;margin-left:10px;">
 
 # **Create Part from a Reference Image [UNDER CONSTRUCTION]**
 
@@ -16,7 +16,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360
 
 2.  Download an image file:
-    -   **Download** the **image** file by clicking <a href="/images/act-6/VanIsle.png" download>here</a>
+    -   **Download** the **Vancouver Island** image file by clicking <a href="images/act-6/VanIsle.png" download>here</a>
 
 3.  Import the file into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
