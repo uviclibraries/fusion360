@@ -28,8 +28,6 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
 
-    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:720px;">
-
 4.  Create the basic shape of the phone stand:
     -   Start a new sketch by **clicking** the **Create Sketch** icon <img src="images/act-2/4.png" alt="create sketch icon" style="width:25px;">. It will prompt you to select a plane. A good practice is to **select the plane** from which the object would be viewed in real life. In this case, the **top plane** or horizontal plane is desired because that is how the object will be 3D printed.
     
@@ -39,6 +37,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   Try moving the sides of the rectangle around by **selecting** and **dragging** the **blue edges of the square.** The bottom and left sides can’t be moved because they’re defined by the origin. The top and right sides can be moved.
     -   Select the **Sketch Dimension** tool <img src="images/act-2/4-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse** slightly above the line and **click** again. **Enter 70 mm** as the dimension. **Repeat** with the **right line**, but enter **25 mm.**
     -   Notice that all sides of the rectangle are black. This means the sketch is fully defined.
+    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:720px;">
+
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
     
@@ -80,7 +80,8 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-2/6-2.png" alt="chamfer pop up" style="width:330px;">
     <img src="images/act-2/6-3.png" alt="fillet pop up" style="width:330px;">
     
-7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. Congratulations! You can now 3D print your phone holder!
+7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. 
+**Congratulations! You can now 3D print your phone holder!**
     
     <img src="images/act-2/7.png" alt="final 3d model" style="width:330px;">
     <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:330px;">

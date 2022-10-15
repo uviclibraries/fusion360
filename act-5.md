@@ -95,7 +95,8 @@ If you or your group have any questions or get stuck as you work through this in
     -   Right-click on **Body1** in the design tree. Select **Save As STL. Click OK** in the pop-up box. Save it in your desired location.
     -   Repeat with **Body 2.**
     -   **Click** on the **Save** button to save your Fusion 360 file.
-    -   Congratulations! You now have a printable femur!
+    
+**Congratulations! You now have a printable femur!**
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 

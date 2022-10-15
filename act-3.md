@@ -88,7 +88,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 10.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. 
 
-# Congratulations! You can now 3D print a Lego!
+**Congratulations! You can now 3D print a Lego!**
 
 11. **OPTIONAL:** Optimize your lego piece for 3D printing:
     -   Chamfer circle pieces on the bottom of the lego piece. This makes it easier for the studs at the top of one brick to be guided into the bottom of another without having the studs catch on the edges.

@@ -78,14 +78,14 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-4/6-5.gif" alt="making the metal pin" style="float:right;width:700px;">
     
-# Congratulations! You have modelled an assembly of two components in Fusion!
+    **Congratulations! You have modelled an assembly of two components in Fusion!**
 
 
 7.  **OPTIONAL:** Add appearances to the components of the push pin.
     -   **Click** on the **Modify** drop-down menu and select **Appearance.** Scroll down to the bottom of the window. 
     -   **Click** on the **Metal** folder, then on the **Steel** folder, drag the **Steel-Cast** block and drop it onto the pin. 
     -   **Click** on the **Plastic** folder, drag and drop the **ABS(White)** block onto the plastic part of the pushpin. If you want, you can try to make a render of the pushpin by clicking on **Design** in the top-left corner and selecting **Render.**
-     <img src="images/act-4/7.png" alt="rendered pin" style="width:240px;">
-     
+    <img src="images/act-4/7.png" alt="rendered pin" style="width:240px;margin-left:10px;">
+
 [NEXT STEP: Splitting an Object Found Online](act-5.html){: .btn .btn-blue }
 
