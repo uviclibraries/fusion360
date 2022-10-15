@@ -43,15 +43,13 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="width:620px;">
     
-    <img src="images/act-4/3-92.png" alt="revolved pushpin" style="float:right;width:240px;margin-left:10px;">
-    
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
 
-    <img src="images/act-4/3-10.gif" alt="trimming a sketch" style="float:right;width:720px;">
+    <img src="images/act-4/3-10.gif" alt="trimming a sketch" style="width:720px;">
 
     -   **Click** over to the **SOLID** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
     
-    <img src="images/act-4/3-11.gif" alt="revolving a sketch" style="float:right;width:720px;">
+    <img src="images/act-4/3-11.gif" alt="revolving a sketch" style="width:720px;">
     <img src="images/act-4/4.png" alt="hole tool pop up" style="float:right;width:240px;margin-left:10px;">
 
 4.  Add a hole for the metal pin:
@@ -60,7 +58,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   In the Hole Feature window, change the **Drill Point** end condition to **Flat,** change the depth to 5 mm and the width to 1 mm.
     -   **Click OK** in the **Hole Feature** window.
   
-    <img src="images/act-4/4-3.gif" alt="making a hole" style="float:right;width:720px;">
+    <img src="images/act-4/4-3.gif" alt="making a hole" style="width:720px;">
 
 5.  Make it into a component:
     -   **Click** on the arrow next to **Bodies** in the **Browser.**
@@ -76,10 +74,9 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to 0.5 mm and the second to 2.5 mm.  **Click OK.**
     -   To activate both components at once, hover over the file name in the browser and **click the small circle** that appears next to the name. <img src="images/act-4/6-4.png" alt="small circle" style="width:200px;">
 
-    <img src="images/act-4/6-5.gif" alt="making the metal pin" style="float:right;width:700px;">
+    <img src="images/act-4/6-5.gif" alt="making the metal pin" style="width:700px;">
     
     **Congratulations! You have modelled an assembly of two components in Fusion!**
-
 
 7.  **OPTIONAL:** Add appearances to the components of the push pin.
     -   **Click** on the **Modify** drop-down menu and select **Appearance.** Scroll down to the bottom of the window. 
