@@ -75,7 +75,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Extrude** feature <img src="images/act-4/6-2.png" alt="extrude feature" style="width:25px;">. In the Extrude pop-up box, **enter 15 mm** as the **Distance.** Select **New Component** from the Operation drop-down. **Click OK.**
     -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to 0.5 mm and the second to 2.5 mm.  **Click OK.**
     -   To activate both components at once, hover over the file name in the browser and **click the small circle** that appears next to the name. <img src="images/act-4/6-4.png" alt="small circle" style="width:240px;">
-    
+
     <img src="images/act-4/6-5.gif" alt="making the metal pin" style="float:right;width:700px;">
     
 # Congratulations! You have modelled an assembly of two components in Fusion!
@@ -86,5 +86,6 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Metal** folder, then on the **Steel** folder, drag the **Steel-Cast** block and drop it onto the pin. 
     -   **Click** on the **Plastic** folder, drag and drop the **ABS(White)** block onto the plastic part of the pushpin. If you want, you can try to make a render of the pushpin by clicking on **Design** in the top-left corner and selecting **Render.**
      <img src="images/act-4/7.png" alt="rendered pin" style="width:240px;">
+     
 [NEXT STEP: Splitting an Object Found Online](act-5.html){: .btn .btn-blue }
 
