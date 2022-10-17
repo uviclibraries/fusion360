@@ -60,7 +60,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click on the **Save** button to save your Fusion 360 file.
     -   Congratulations! You now have a printable femur!
 
-<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:180px;margin-left:10px;">
+<img src="images/act-5/p2-0.png" alt="interlocking features" style="float:right;width:100px;margin-left:10px;">
 
 # **Split a Long Object in Fusion 360 (Part 2: Interlocking Features)**
 
