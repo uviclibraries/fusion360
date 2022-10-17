@@ -32,7 +32,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
     
-    <img src="images/act-4/3-2.png" alt="initial lines" style="width:620px;margin-left:10px;">
+    <img src="images/act-4/3-2.png" alt="initial lines" style="float:right;width:500px;margin-left:10px;">
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
     -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="line tool" style="width:25px;">. **Click** on one **circle,** then **click** on the **second circle.**
@@ -41,7 +41,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
     
-    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="width:620px;">
+    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:620px;margin-left:10px;">
     
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
 
@@ -66,7 +66,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Right-Click** on **Body1** and select **Create Components from Bodies.** This has converted the pushpin body into a component. Components are the individual parts needed in an assembly, while bodies are just building blocks for components.
     -   Another way to make a component is to specify it before building any bodies. At the top of the screen, **click** on the **New Component** feature <img src="images/act-4/5-3.png" alt="new component icon" style="width:25px;">. **Click OK** in the pop-up box.
 
-    <img src="images/act-4/6.png" alt="chamfer pop up" style="float:right;width:340px;margin-left:10px;">
+    <img src="images/act-4/6.png" alt="chamfer pop up" style="float:right;width:300px;margin-left:10px;">
 
 6.  Make the metal pin:
     -   **Orient** the push pin so you can look down the hole. **Select** the bottom face of the hole.

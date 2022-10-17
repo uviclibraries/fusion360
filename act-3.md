@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
 
-    <img src="images/act-3/3-2.gif" alt="new part" style="float:right;width:720px;">
+    <img src="images/act-3/3-2.gif" alt="new part" style="width:720px;">
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
 4.  Make the main body:
@@ -51,7 +51,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-3/6.png" alt="center diameter circle tool" style="width:25px;">. **Click** near the **top left corner** of the big rectangle. **Click** again to **create a circle.**
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter the **“F”** value. **Click** on the **center of the circle** and then on the **left line of the rectangle, enter 3.9 mm. Click** on the **center of the circle** and then on the **top line** of the rectangle, **enter 3.9 mm. Click** the **Esc** key to exit the tool.
 
-    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:320px;margin-left:10px;">
+    <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:280px;margin-left:10px;">
 
 6. Add connectors with the Pattern tool:
     -   **Click** on the **sketch** tab then **Click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
@@ -59,7 +59,7 @@ If you or your group have any questions or get stuck as you work through this in
      -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
-  <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="float:right;width:720px;">
+    <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="width:720px;">
 
 7.  Hollow it out: 
     -   Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. 
@@ -87,8 +87,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/9-4.gif" alt="lego chamfers" style="width:700px;">
 
 10.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. 
-
-**Congratulations! You can now 3D print a Lego!**
+    **Congratulations! You can now 3D print a Lego!**
 
 11. **OPTIONAL:** Optimize your lego piece for 3D printing:
     -   Chamfer circle pieces on the bottom of the lego piece. This makes it easier for the studs at the top of one brick to be guided into the bottom of another without having the studs catch on the edges.
