@@ -18,16 +18,34 @@ If you or your group have any questions or get stuck as you work through this in
 2.  Download an image file:
     -   **Download** the **Vancouver Island** image file by clicking <a href="images/act-6/VanIsle.png" download>here</a>
 
-3.  Import the file into Fusion 360:
+3.  Launch Fusion 360 and get familiar with how to move around:
+    -   Hold down the mouse wheel and drag to move.
+    -   Press the shift key while holding down the mouse wheel to rotate.
+    -   Scroll the mouse wheel to zoom in and out.
+    -   Click to select.
+    -   Press Esc to clear a selection.
+
+4.  Import the file into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
-    -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Insert Mesh. Select** the **image** file. **Click Open.**
+    -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Canvas. Select Insert from my computer** and select your **image** file.
+    -   **Click** the plane you want to put your image on (the top plane is best), then click and drag the box that appears to make the image larger. then **click ok**.
 
-4. Make your object:
-    - coming soon
+5. Trace the image:
+    -   Make a new sketch:.  **Click the sketch icon** then click on the same plane as your image.  
+    -   **Click** on the **Fit point spline** tool <img src="images/act-6/4.png" alt="spline tool" style="width:25px;">
+    -   **Click** along the edges of the canvas to trace the outline.  **click esc** to exit the spline tool.
+    -   **Click and drag** the black dots to adjust the position of each spline point, or click and drag the green line to adjust the spline line direction.
+    -   Once you're happy with your outline, **Click the Solid tab** on the top left and click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Select your outline and set 5mm as the distance.
 
-5.  Export as STL file:
+6.  Add embellishments:
+    -   **Click** the **Create Sketch** feature to start a new sketch.
+    -   Sketch a star: select polygon from the drop-down menu, then make a pentagon.  Select the line tool, and draw a star inside the pentagon.
+
+
+7.  Export as STL file:
     -   Right-click on **Body** in the design tree. Select **Save As STL. Click OK** in the pop-up box. Save it in your desired location.
     -   **Click** on the **Save** button to save your Fusion 360 file.
-    -   Congratulations! You now have a printable file!
+
+**Congratulations! You now have a printable file!**
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
