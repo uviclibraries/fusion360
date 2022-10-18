@@ -32,7 +32,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 4.  Common features
     -   **Extrude** <img src="images/act-1/4.png" alt="extrude icon" style="width:25px;"> is used for moving a sketch in a straight line to create a 3D feature.
     -   **Revolve** <img src="images/act-1/4-2.png" alt="revolve icon" style="width:25px;"> is used for rotating a sketch around an axis to create a 3D feature. Make round parts using a revolve instead of a series of extrudes. Then you only need to edit one sketch.
-    -   **Hole** <img src="images/act-1/4-3.png" alt="hole icon" style="width:25px;"> is a quick way to make several of the same hole type such as a clearance or threaded hole for a screw.
+    -   **Hole** <img src="images/act-1/4-3.png" alt="hole icon" style="width:25px;"> is a quick way to make several holes of the same type such as a threaded hole for a screw.
     -   **Fillet/Chamfer** <img src="images/act-1/4-4.png" alt="fillet icon" style="width:25px;"> <img src="images/act-1/4-5.png" alt="chamfer icon" style="width:25px;"> are tools used to modify the edges of a part. These features should only be used at the very end of designing a part. Otherwise, the wrong edges may be selected for dimensioning or errors may be caused.
 
    <img src="images/act-1/5.png" alt="measure tool" style="float:right;width:120px;margin-left:10px;">
@@ -64,12 +64,12 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   A feature or sketch can be edited by **right-clicking** on it from the **Timeline**, then clicking **Edit Feature** or **Edit Sketch**. Dimensions and other parameters can then be changed.
     <img src="images/act-1/8.png" alt="lego brick top" style="float:right;width:240px;margin-left:10px;">
     
-    -   After you make a part, you will almost certainly need to go back and edit various aspects of it. Often, editing time will exceed initial designing time. Consider the following questions when doing the initial design:
+    -   After you make a part, you will almost certainly need to go back and edit various aspects of it. Often, editing time will exceed the initial designing time. Consider the following questions when doing the initial design:
         -   What dimensions are the most likely to be modified?
         <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;margin-left:10px;">
         -   If the outer dimensions of the part change, how do I want the other features to move with respect to the body?
-        -   How should I set a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
+        -   How should I make a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="float:right;width:240px;margin-left:10px;">
-    -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
+    -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. Use this method when you need to add another feature to your part after it has been “finished” with fillets and chamfers.
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }

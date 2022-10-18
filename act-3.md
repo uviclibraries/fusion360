@@ -43,7 +43,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/5-3.png" alt="rectangle" style="float:right;width:240px;margin-left:10px;">
     
     -   Select the **Sketch Dimension** tool <img src="images/act-3/5-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse slightly** above the line and **click** again. **Enter** your measured **“G”** as the dimension. **Repeat** with the right line, but enter **“H”**.
-    -   **Click** over to the **SOLID** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
+    -   **Click** over to the **Solid** tab on the top menu, and click on the **Extrude** feature <img src="images/act-3/5-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **“E”** as the thickness. Then click **OK** in the **Extrude** pop-up box.
 
 5.  Sketch a connector:
     -   **Click** on the **top surface of the brick. Select** the **Create Sketch** button on the top menu.
@@ -54,10 +54,10 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/6-2.png" alt="rectangular pattern tool" style="float:right;width:280px;margin-left:10px;">
 
 6. Add connectors with the Pattern tool:
-    -   **Click** on the **sketch** tab then **Click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
-    Note: _there are two rectangular pattern tools, one in the sketch tab and in the solid tab.  Make sure you're using the correct (sketch) tool!_
+    -   **Click** on the **sketch** tab then **click** on the **Create** drop-down menu and select the **Rectangular Pattern** tool. <img src="images/act-3/6-3.jpg" alt="rectangular pattern" style="width:25px;">.
+    Note: _there are two rectangular pattern tools, one in the sketch tab and one in the solid tab.  Make sure you're using the correct (sketch) tool!_
      -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
-    -   **Click** the **Solid** tab button. **Click** on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
+    -   **Click** the **Solid** tab button, then on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
     <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="width:720px;">
 
@@ -71,9 +71,9 @@ If you or your group have any questions or get stuck as you work through this in
 8.  Add cylinders to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
       <img src="images/act-3/8-3b.png" alt="circles placement" style="float:right;width:240px;margin-left:10px;">
-    -   In the **Sketch Palette,** on the far right, **click** the **Construction** icon <img src="images/act-3/8.png" alt="construction icon" style="width:25px;">. Then **select Line** <img src="images/act-3/8-2.png" alt="line tool" style="width:25px;"> from the sketch tools on the top menu. Click the center of the top-left circle, then click the center of the circle diagonal to it. **Click** the **Esc** key to exit the Line tool. 
-    -   **Click** on the **Center Diameter Circle** tool. Hover over the middle of the line until a blue triangle appears. Click to place the center of a circle in the middle of the line, click again to make a circle. Repeat to make a smaller circle inside the first.
-    -   **Click** on the **Sketch Dimension** tool. Click on one circle and enter **“A”.** Click on the other and enter **“B”.**
+    -   In the **Sketch Palette,** on the far right, **click** the **Construction** icon <img src="images/act-3/8.png" alt="construction icon" style="width:25px;">. Then **select Line** <img src="images/act-3/8-2.png" alt="line tool" style="width:25px;"> from the sketch tools on the top menu. **Click** the center of the top-left circle, then **click** the center of the circle diagonal to it. Use the **Esc** key to exit the Line tool. 
+    -   **Click** on the **Center Diameter Circle** tool. Hover over the middle of the line until a blue triangle appears. **Click** to place the center of a circle in the middle of the line, **click** again to make a circle. Repeat to make a smaller circle inside the first.
+    -   **Click** on the **Sketch Dimension** tool. **Click** on one circle and enter **“A”.** **Click** on the other and enter **“B”.**
     <img src="images/act-3/8-4.png" alt="edit feature pop up" style="float:right;width:240px;margin-left:10px;">
     
     -   **Click** over to the **Solid** tab. **Click** on the **Extrude** feature. Select the area between the two circles. Change the **Extent** to **To Object.** Select the space between the two outer rectangles (where the red arrow is pointing) as the **Object.** Then **click OK** in the **Extrude** pop-up box.
@@ -86,7 +86,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:330px;">
     <img src="images/act-3/9-4.gif" alt="lego chamfers" style="width:700px;">
 
-10.  Save using the **Save** button on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. 
+10.  Save using the **save** icon on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. 
     **Congratulations! You can now 3D print a Lego!**
 
 11. **OPTIONAL:** Optimize your lego piece for 3D printing:

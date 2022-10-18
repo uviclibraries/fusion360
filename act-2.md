@@ -11,10 +11,11 @@ parent: Workshop Activities
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1.  Download & install Fusion 360.
+1.  Download & install Fusion 360:
     -   Check your laptop specs to ensure it’s able to run Fusion 360: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow this link to make an Autodesk account and download Fusion 360: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"}
-2.  Launch Fusion 360 and get familiar with how to move around.
+
+2.  Launch Fusion 360 and get familiar with how to move around:
     -   **Hold down** the **mouse wheel** and **drag** to **move.**
     -   **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate.**
     -   **Scroll** the **mouse wheel** to **zoom** in and out.
@@ -23,7 +24,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-2/2.png" alt="calipers" style="float:right;width:360px;margin-left:10px;">
 
-3.  Measure the width of your phone
+3.  Measure the width of your phone:
     -   Ask the instructor for a caliper tool so that you can measure the width of your cell phone.
     -   **Write down or record the width** of your cell phone out to two decimal places
     -   Now **add 0.5 to the width** of your phone and write it down or record it (e.g. if my phone was **8.50mm** then I’d write **9.00mm**)
@@ -41,10 +42,9 @@ If you or your group have any questions or get stuck as you work through this in
 
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
+    <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="float:right;width:720px;">
     
-    <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:720px;">
-    
-5.  Cut out a slot for your phone and hole for your keychain.
+5.  Cut out a phone slot and keychain hole:
     
     <img src="images/act-2/5bcrop.gif" alt="slot and hole sketch" style="float:right;width:720px;">
     <img src="images/act-2/5-3.png" alt="defined rectangle" style="float:right;width:240px;margin-left:10px;">
@@ -63,14 +63,14 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="float:right;width:720px;">
     
-    -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
+    -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in the open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     
     <img src="images/act-2/5-5c.gif" alt="extrude cut" style="float:right;width:500px;margin-left:10px;">
     
     -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK** (see images below for more details).
 
-6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers to the end of the part._
+6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers until after your design is completed._
 
     <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="float:right;width:720px;">
 
