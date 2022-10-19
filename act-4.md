@@ -27,9 +27,6 @@ If you or your group have any questions or get stuck as you work through this in
 3.  Make the plastic part of the push pin:
     -   **Select** the **Create Sketch** <img src="images/act-4/3.png" alt="create sketch tool" style="width:25px;"> feature. **Select** the **Top** plane.
     -   **Select** the **Line** tool <img src="images/act-4/3-3.png" alt="line tool" style="width:25px;">. Make a “U” shape with lines by clicking on the green axis, then on the origin, then on the red axis, then straight up from that point. **Click** the **Esc** key to exit the Line tool.
-    
-    
-    
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **right line, move your mouse slightly** to the left the line and **click** again. **Enter 4.5** as the dimension. **Repeat** with the other two lines and follow the dimensions in the picture to the right. **Click** the **Esc** key to exit the Sketch Dimension tool.
     
     <img src="images/act-4/3-2.png" alt="initial lines" style="float:right;width:500px;margin-left:10px;">
@@ -41,7 +38,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
     
-    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:620px;margin-left:10px;">
+    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:600px;">
     
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
 
