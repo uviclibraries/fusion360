@@ -31,7 +31,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** the plane you want to put your image on (the top plane is best), then click and drag the box that appears to make the image larger. then **click ok**.
 
 5. Trace the image:
-    -   Make a new sketch:.  **Click the sketch icon** then click on the same plane as your image.  
+    -   Make a new sketch.  **Click** the **sketch** icon then click on the same plane as your image.  
     -   **Click** on the **Fit point spline** tool <img src="images/act-6/4.png" alt="spline tool" style="width:25px;">
     -   **Click** along the edges of the canvas to trace the outline.  **click esc** to exit the spline tool.
     -   **Click and drag** the black dots to adjust the position of each spline point, or click and drag the green line to adjust the spline line direction.

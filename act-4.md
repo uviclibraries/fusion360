@@ -44,7 +44,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-4/3-10.gif" alt="trimming a sketch" style="width:720px;">
 
-    -   **Click** over to the **SOLID** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
+    -   **Click** over to the **Solid** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
     
     <img src="images/act-4/3-11.gif" alt="revolving a sketch" style="width:720px;">
     <img src="images/act-4/4.png" alt="hole tool pop up" style="float:right;width:240px;margin-left:10px;">
