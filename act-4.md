@@ -38,7 +38,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
     
-    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:600px;">
+    <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:500px;">
     
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
 
