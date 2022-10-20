@@ -58,9 +58,9 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 
-    <button onclick="toggle()">Show/Hide</button>
-    <div id="gif">
-    <img src="images/act-1/renaming.gif" alt="using the timeline" style="width:400px;margin-left:10px;">
+    <button onclick="toggle(1-1)">Show/Hide</button>
+    <div id="1-1" class="gif">
+    <img src="images/act-1/renaming.gif" alt="renaming" style="width:400px;margin-left:10px;">
     </div>
 
 8.  Editing features
@@ -73,19 +73,18 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
         -   How should I setup a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
     
-    <button onclick="toggle()">Show/Hide</button>
-    <div id="gif">
+    <button onclick="toggle(1-2)">Show/Hide</button>
+    <div id="1-2" class="gif">
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="width:240px;margin-left:10px;">
     </div>
 
     <script>  
 
-    function toggle() {
-    var x = document.getElementById("gif");
+    function toggle(id) {
+    var x = document.getElementById("id");
     if (x.style.display === "none") {
     x.style.display = "block";} else {
     x.style.display = "none";}
-    }
 
     </script>
 
