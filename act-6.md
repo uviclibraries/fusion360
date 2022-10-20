@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 <img src="images/act-6/VanIsle.png" alt="bo-o-o-o-one?!" style="float:right;width:360px;margin-left:10px;">
 
-# **Create Part from a Reference Image [UNDER CONSTRUCTION]**
+# **Create a Part from a Reference Image [UNDER CONSTRUCTION]**
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
@@ -25,14 +25,16 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click to select.
     -   Press Esc to clear a selection.
 
-4.  Import the file into Fusion 360:
+4.  Import the image into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
     -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Canvas. Select Insert from my computer** and select your **image** file.
     -   **Click** the plane you want to put your image on (the top plane is best), then click and drag the box that appears to make the image larger. then **click ok**.
+    
+    <img src="images/act-6/4.gif" alt="import image" style="width:720px;">
 
 5. Trace the image:
     -   Make a new sketch.  **Click** the **sketch** icon then click on the same plane as your image.  
-    -   **Click** on the **Fit point spline** tool <img src="images/act-6/4.png" alt="spline tool" style="width:25px;">
+    -   **Click** on the **Fit point spline** tool <img src="images/act-6/5.png" alt="spline tool" style="width:25px;">
     -   **Click** along the edges of the canvas to trace the outline.  **click esc** to exit the spline tool.
     -   **Click and drag** the black dots to adjust the position of each spline point, or click and drag the green line to adjust the spline line direction.
     -   Once you're happy with your outline, **Click the Solid tab** on the top left and click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Select your outline and set 5mm as the distance.
