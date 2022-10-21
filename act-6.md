@@ -28,22 +28,23 @@ If you or your group have any questions or get stuck as you work through this in
 4.  Import the image into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
     -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Canvas. Select Insert from my computer** and select your **image** file.
-    -   **Click** the plane you want to put your image on (the top plane is best), then click and drag the box that appears to make the image larger. then **click ok**.
+    -   **Click** the plane you want to put your image on (the top plane is best), then **click and drag** the box that appears to make the image larger. For more exact sizing, you can input a scale factor into the box that appears. **Click ok** when you're happy with the size.
     
     <img src="images/act-6/4.gif" alt="import image" style="width:720px;">
 
 5. Trace the image:
-    -   Make a new sketch.  **Click** the **sketch** icon then click on the same plane as your image.  
+    -   Make a new sketch.  **Click** the **sketch** icon then **click** on the same plane as your image.  
     -   **Click** on the **Fit point spline** tool <img src="images/act-6/5.png" alt="spline tool" style="width:25px;">
     -   **Click** along the edges of the canvas to trace the outline.  Place as many points as you like - more points will give you a more accurate outline, but will take longer.  **Click esc** to exit the spline tool.
     -   **Click and drag** the black dots to adjust the position of each spline point, **click and drag** the green line to adjust the spline angle.
-    -   Once you're happy with your outline, **Click the Solid tab** on the top left and click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Select your outline and set 5mm as the distance.
+    -   Once you're happy with your outline, **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Select your outline and set 5mm as the distance.
 
     <img src="images/act-6/5-1.gif" alt="fit point spline" style="width:720px;">
 
 6.  Add embellishments:
     -   **Click** the **Create Sketch** feature to start a new sketch.
-    -   Sketch a star: select polygon from the drop-down menu, then make a pentagon.  Select the line tool, and draw a star inside the pentagon.
+    -   Sketch a star: **select polygon** from the drop-down menu, then make a pentagon.  Use the **dimension** tool to set the size.
+    -   **Select** the **line** tool, and draw a star inside the pentagon.
 
 
 7.  Export as STL file:
