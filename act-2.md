@@ -57,7 +57,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on the **Center Diameter Circle** tool <img src="images/act-2/5-4.png" alt="center diameter circle" style="width:25px;">. **Click** on the part near the **top left corner**. **Click** again to **create a circle**.
 
-        <img src="images/act-2/5-6.png" alt="create toolbar" style="width:340px;">
+        <img src="images/act-2/5-6.png" alt="create toolbar" style="width:320px;">
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter **5 mm**. **Click** on the **center of the circle** and then **click on the left line** of the rectangle, enter **4 mm**. **Click** on the **center of the circle** and then **click** on the **top line of the rectangle**, enter **4 mm**.
     
