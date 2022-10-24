@@ -40,7 +40,3 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 plugins:
   - jekyll-seo-tag
-
-#{% for js in page.customjs %}
-#<script async type="text/javascript" src="{{ js }}"></script>
-#{% endfor %}

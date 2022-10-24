@@ -58,7 +58,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 
-    <button onclick="toggle()">Show/Hide</button>
+    <button onclick="toggle(gif1)">Show/Hide</button>
     <div id="gif1">
     <img src="images/act-1/renaming.gif" alt="renaming" style="width:400px;margin-left:10px;">
     </div>
@@ -80,15 +80,15 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 
     <script>  
 
-    function toggle() {
-        var x = document.getElementById("gif1");
+    function toggle(name) {
+        var x = document.getElementById("name");
         if (x.style.display === "none") {
             x.style.display = "block";
         } else {
             x.style.display = "none";
         }
     }
-    
+
     function toggle2(){
         var y = document.getElementById("gif2");
         if (y.style.display === "none") {
