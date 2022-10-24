@@ -28,7 +28,7 @@ If you or your group have any questions or get stuck as you work through this in
 4.  Import the image into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
     -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Canvas. Select insert from my computer** and select your **image** file.
-    -   **Click** the plane you want to put your image on (the top plane is best), then **click and drag** the box on top of the image to resize. For more exact sizing, **type** a **scale factor** of 10 into the scale plane box. **Click ok** when you're happy with the size.
+    -   **Click** the plane you want to put your image on (the top plane is best), then **click and drag** the box on top of the image to resize. For more exact sizing, **type** a **scale factor** of 10 into the scale plane box. **Click ok**.
     
     <img src="images/act-6/4.gif" alt="import image" style="width:720px;">
 
