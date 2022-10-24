@@ -18,12 +18,12 @@ If you or your group have any questions or get stuck as you work through this in
 2.  Download an image file:
     -   **Download** the **Vancouver Island** image file by clicking <a href="images/act-6/VanIsle.png" download>here</a>
 
-3.  Launch Fusion 360 and get familiar with how to move around:
-    -   Hold down the mouse wheel and drag to move.
-    -   Press the shift key while holding down the mouse wheel to rotate.
-    -   Scroll the mouse wheel to zoom in and out.
-    -   Click to select.
-    -   Press Esc to clear a selection.
+3.  Launch Fusion 360 and get familiar with how to move around.
+    -   **Hold down the mouse wheel** and **drag** to move.
+    -   **Press** the **shift key** while **holding down the mouse wheel** to **rotate.**
+    -   **Scroll** the **mouse wheel** to zoom in and out.
+    -   **Click** to **select.**
+    -   **Press Esc** to clear a selection.
 
 4.  Import the image into Fusion 360:
     -   Open Fusion 360, it will automatically make a new part.
@@ -58,15 +58,15 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** the **line** tool <img src="images/act-4/3-3.png" alt="extrude feature" style="width:25px;"> under the create drop-down, then draw a star inside the pentagon.  
     -   Use the **trim** tool <img src="images/act-1/3-3.png" alt="extrude feature" style="width:25px;"> to remove extra lines.  Hold the **Shift** key and **click** on each side of the pentagon, then **Click** the **construction** option next to linetype in the sketch palette.
     -   **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Click inside your star sketch to select it, then choose Operation as **Cut**, and Extent Type as **All**.  **Click OK.**
-    
+
     <button onclick="toggle('gif3')">Show/Hide</button>
     <div id="gif3">
     <img src="images/act-6/6.gif" alt="adding a star marker" style="width:720px;">
     </div>
 
-7. OPTIONAL: Add more embellishments
-    -   sketch a circle at the top of the part and make an extrude cut
-    -   add text or other shapes to the top of the part
+7. OPTIONAL: Add extra features
+    -   Cut a keychain hole
+    -   Add text or other shapes to the top of the part
 
 8.  Export as STL file:
     -   Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. 

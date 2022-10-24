@@ -14,12 +14,14 @@ If you or your group have any questions or get stuck as you work through this in
 1.  Download and install Fusion 360.
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB]){:target="_blank"}
     -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360
+
 2.  Launch Fusion 360 and get familiar with how to move around.
     -   **Hold down the mouse wheel** and **drag** to move.
     -   **Press** the **shift key** while **holding down the mouse wheel** to **rotate.**
     -   **Scroll** the **mouse wheel** to zoom in and out.
     -   **Click** to **select.**
     -   **Press Esc** to clear a selection.
+    
 3.  Download an STL file to split:
     -   **Download** the **Right_femur.stl** file from [here](http://bit.ly/35yi3nv){:target="_blank"}
     -   As you could guess from the description, a femur would be much too long to fit on our printers, so we need to split it into two parts.
@@ -54,7 +56,11 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Note:** _One of the original planes can also be used to split the part but often the original planes don't intersect the part where we want them, so here we use this method for demonstration._
     -   **Note:** _Notice that in the design tree there are now two bodies._
-    <img src="images/act-5/5-4.gif" alt="split the bone" style="width:720px;">
+
+    <button onclick="toggle('gif2')">Show/Hide</button>
+    <div id="gif2">
+    <img src="images/act-5/5-4.gif" alt="split bone" style="width:720px;">
+    </div>
 
 6.  Export as separate STL files:
     <img src="images/act-5/6a.png" alt="save as mesh" style="float:right;width:180px;margin-left:10px;">
@@ -82,7 +88,10 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
     -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
 
+    <button onclick="toggle('gif3')">Show/Hide</button>
+    <div id="gif3">
     <img src="images/act-5/p2-1-9.gif" alt="create a peg" style="width:720px;">
+    </div>
 
 2.  Make a hole in the other side of the femur:
 
