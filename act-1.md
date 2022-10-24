@@ -59,7 +59,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 
     <button onclick="toggle()">Show/Hide</button>
-    <div id="1-1" class="gif">
+    <div id="gif1">
     <img src="images/act-1/renaming.gif" alt="renaming" style="width:400px;margin-left:10px;">
     </div>
 
@@ -74,14 +74,14 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
     
     <button onclick="toggle()">Show/Hide</button>
-    <div id="1-2" class="gif">
+    <div id="gif2">
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="width:240px;margin-left:10px;">
     </div>
 
     <script>  
 
     function toggle() {
-    var x = document.getElementById("1-1");
+    var x = document.getElementById("gif1");
     if (x.style.display === "none") {
     x.style.display = "block";} else {
     x.style.display = "none";}
