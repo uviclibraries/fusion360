@@ -73,7 +73,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
         -   How should I setup a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
     
-    <button onclick="toggle2()">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide</button>
     <div id="gif2">
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="width:240px;margin-left:10px;">
     </div>
@@ -96,7 +96,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
         } else {
             y.style.display = "none";
         }
-    }
+    } 
     </script>
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
