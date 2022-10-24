@@ -3,6 +3,7 @@ layout: default
 title: 2-Design a Phone Stand
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/act-2/0.png" alt="phone stand" style="float:right;width:300px;margin-left:10px;">
@@ -39,7 +40,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Select the **Sketch Dimension** tool <img src="images/act-2/4-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse** slightly above the line and **click** again. **Enter 70 mm** as the dimension. **Repeat** with the **right line**, but enter **25 mm.**
     -   Notice that all sides of the rectangle are black. This means the sketch is fully defined.
 
-    <button onclick="toggle()">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide</button>
     <div id="gif1">
     <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:720px;">
     </div>
@@ -47,7 +48,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
 
-    <button onclick="toggle2()">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide</button>
     <div id="gif2">
     <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:720px;">
     </div>
@@ -60,7 +61,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **2-Point Rectangle** tool. **Click** on the **top line** of the rectangle to constrain the first point of the rectangle to it and **click lower and to the right** of the first point.
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **top line** of the new rectangle, **enter the value** you calculated in step **3c**. **Click** the **right line**, enter **16 mm**. Now hold down your shift button & **click** the **right side** of the new rectangle and the **right side** of the **old rectangle** and enter **12 mm**. Notice the rectangle is now fully defined and in the correct location.
     
-    <button onclick="toggle3()">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide</button>
     <div id="gif3">
     <img src="images/act-2/5bcrop.gif" alt="slot and hole sketch" style="width:720px;">
     </div>
@@ -73,14 +74,14 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter **5 mm**. **Click** on the **center of the circle** and then **click on the left line** of the rectangle, enter **4 mm**. **Click** on the **center of the circle** and then **click** on the **top line of the rectangle**, enter **4 mm**.
     
-    <button onclick="toggle4()">Show/Hide</button>
+    <button onclick="toggle('gif4')">Show/Hide</button>
     <div id="gif4">
     <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="float:right;width:720px;"></div>
     
     -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in the open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     
-    <button onclick="toggle5()">Show/Hide</button>
+    <button onclick="toggle('gif5')">Show/Hide</button>
     <div id="gif5">
     <img src="images/act-2/5-5c.gif" alt="extrude cut" style="float:right;width:500px;margin-left:10px;"></div>
     
@@ -88,7 +89,7 @@ If you or your group have any questions or get stuck as you work through this in
 
 6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers until after your design is completed._
 
-    <button onclick="toggle6()">Show/Hide</button>
+    <button onclick="toggle('gif6')">Show/Hide</button>
     <div id="gif6">
     <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="float:right;width:720px;"></div>
 
@@ -99,10 +100,24 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-2/6-3.png" alt="fillet pop up" style="width:330px;">
     
 7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. 
-**Congratulations! You can now 3D print your phone holder!**
+
+    **Congratulations! You can now 3D print your phone holder!**
     
     <img src="images/act-2/7.png" alt="final 3d model" style="width:330px;">
     <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:330px;">
+
+ <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+    </script>
+
 
 [NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 

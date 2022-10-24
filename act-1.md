@@ -78,7 +78,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="width:240px;margin-left:10px;">
     </div>
 
-    <script>  
+<script>  
 
     function toggle(input) {
         var x = document.getElementById(input);
@@ -88,15 +88,6 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
             x.style.display = "none";
         }
     }
-
-    function toggle2(){
-        var y = document.getElementById("gif2");
-        if (y.style.display === "none") {
-            y.style.display = "block";
-        } else {
-            y.style.display = "none";
-        }
-    } 
-    </script>
+</script>
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
