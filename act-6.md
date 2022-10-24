@@ -30,7 +30,10 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Insert** drop-down menu on the top navigation bar (see right) and **select Canvas. Select insert from my computer** and select your **image** file.
     -   **Click** the plane you want to put your image on (the top plane is best), then **click and drag** the box on top of the image to resize. For more exact sizing, **type** a **scale factor** of 10 into the scale plane box. **Click ok**.
     
+    <button onclick="toggle('gif1')">Show/Hide</button>
+    <div id="gif1">
     <img src="images/act-6/4.gif" alt="import image" style="width:720px;">
+    </div>
 
 5. Trace the image:
     -   Make a new sketch.  **Click** the **sketch** icon <img src="images/act-5/p2-1-2.png" alt="sketch" style="width:25px;"> then **click** on the same plane as your image.  
@@ -39,7 +42,10 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click and drag** the black dots to adjust the position of each spline point, **click and drag** the green line to adjust the spline angle.
     -   Once you're happy with your outline, **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Select your outline and set 5mm as the distance.
 
+    <button onclick="toggle('gif2')">Show/Hide</button>
+    <div id="gif2">
     <img src="images/act-6/5-1.gif" alt="fit point spline" style="width:720px;">
+    </div>
 
 6.  Add a star marker:
 
@@ -52,16 +58,31 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** the **line** tool <img src="images/act-4/3-3.png" alt="extrude feature" style="width:25px;"> under the create drop-down, then draw a star inside the pentagon.  
     -   Use the **trim** tool <img src="images/act-1/3-3.png" alt="extrude feature" style="width:25px;"> to remove extra lines.  Hold the **Shift** key and **click** on each side of the pentagon, then **Click** the **construction** option next to linetype in the sketch palette.
     -   **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Click inside your star sketch to select it, then choose Operation as **Cut**, and Extent Type as **All**.  **Click OK.**
-
+    
+    <button onclick="toggle('gif3')">Show/Hide</button>
+    <div id="gif3">
     <img src="images/act-6/6.gif" alt="adding a star marker" style="width:720px;">
+    </div>
 
 7. OPTIONAL: Add more embellishments
     -   sketch a circle at the top of the part and make an extrude cut
-    -   add your name, other location markers, etc. to the top of the part
+    -   add text or other shapes to the top of the part
 
 8.  Export as STL file:
     -   Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. 
 
 **Congratulations! You now have a printable model of Vancouver Island!**
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

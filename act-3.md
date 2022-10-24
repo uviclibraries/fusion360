@@ -33,7 +33,11 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
 
+    <button onclick="toggle('gif1')">Show/Hide</button>
+    <div id="gif1">
     <img src="images/act-3/3-2.gif" alt="new part" style="width:720px;">
+    </div>
+    
     <img src="images/act-3/4.png" alt="planes" style="float:right;width:180px;margin-left:10px;">
 
 4.  Make the main body:
@@ -59,14 +63,22 @@ If you or your group have any questions or get stuck as you work through this in
      -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button, then on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
+    <button onclick="toggle('gif2')">Show/Hide</button>
+    <div id="gif2">
     <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="width:720px;">
+    </div>
 
 7.  Hollow it out: 
     -   Select the **Shell** feature <img src="images/act-3/7.png" alt="shell feature" style="width:25px;">. 
     -   Select the bottom of the Lego brick. Enter **“C”** as the **Inside Thickness. Click OK.**
 
     <img src="images/act-3/7-2.png" alt="underside lego in progress" style="width:240px;">
+
+    <button onclick="toggle('gif3')">Show/Hide</button>
+    <div id="gif3">
     <img src="images/act-3/6-4.gif" alt="shelling" style="width:720px;">
+    </div>
+   
 
 8.  Add cylinders to bottom:
     -   **Click** on the **bottom inside face. Click Create Sketch.**
@@ -84,7 +96,11 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:330px;">
     <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:330px;">
+
+    <button onclick="toggle('gif4')">Show/Hide</button>
+    <div id="gif4">
     <img src="images/act-3/9-4.gif" alt="lego chamfers" style="width:700px;">
+    </div>
 
 10.  Save using the **save** icon on the top left of the screen. **Click** on **File,** then **Export.** Change the **Type** to the **.stl** file format and choose a location to save it. It may take a couple of minutes to export. 
     **Congratulations! You can now 3D print a Lego!**
@@ -92,6 +108,18 @@ If you or your group have any questions or get stuck as you work through this in
 11. **OPTIONAL:** Optimize your lego piece for 3D printing:
     -   Chamfer circle pieces on the bottom of the lego piece. This makes it easier for the studs at the top of one brick to be guided into the bottom of another without having the studs catch on the edges.
     -   Fillet internal corners underneath the lego piece. This makes it easier to print without supports since the eventual overhang of the top of the brick will be printed over a smaller distance if the internal walls have recently begun to slope inwards.
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Create a Push Pin](act-4.html){: .btn .btn-blue }
 

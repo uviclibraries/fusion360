@@ -42,7 +42,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <button onclick="toggle('gif1')">Show/Hide</button>
     <div id="gif1">
-    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="float:right;width:720px;">
+    <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="width:720px;">
     </div>
 
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
@@ -76,35 +76,37 @@ If you or your group have any questions or get stuck as you work through this in
     
     <button onclick="toggle('gif4')">Show/Hide</button>
     <div id="gif4">
-    <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="float:right;width:720px;"></div>
+    <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="width:720px;margin-left:10px;"></div>
     
     -   **Click** on the **Create** drop-down menu. **Select Text** from the drop-down menu. **Click** at an open point **near the bottom right** of the large rectangle & then in the open space on the top left (see below). **Enter** your desired parameters into the **Text** pop-up box. You may need to use the **Flip** commands to change the orientation of the text. You can drag the blue handle around to move your text. **Note:** 3D printers do better with bold text with minimal holes.
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
-    
+    -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK**.
+
     <button onclick="toggle('gif5')">Show/Hide</button>
     <div id="gif5">
-    <img src="images/act-2/5-5c.gif" alt="extrude cut" style="float:right;width:500px;margin-left:10px;"></div>
-    
-    -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK** (see images below for more details).
+    <img src="images/act-2/5-5c.gif" alt="extrude cut" style="width:720px;"></div>
+
+    <img src="images/act-2/6-3.png" alt="fillet pop up" style="float:right;width:350px;margin-left:10px;">
 
 6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers until after your design is completed._
 
-    <button onclick="toggle('gif6')">Show/Hide</button>
-    <div id="gif6">
-    <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="float:right;width:720px;"></div>
+    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="float:right;width:280px;margin-left:10px;">
 
     -   **Click** on the **Fillet** tool on the top menu <img src="images/act-2/6.png" alt="fillet tool" style="width:25px;">. **Click** on the **6 outside vertical corner edges** of the rectangle in turn and **change** the **fillet radius** to **3 mm** for all of them.
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
-    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="width:330px;">
-    <img src="images/act-2/6-3.png" alt="fillet pop up" style="width:330px;">
+  
+
+    <button onclick="toggle('gif6')">Show/Hide</button>
+    <div id="gif6">
+    <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="width:720px;"></div>
     
 7.  Save by **clicking** the **Save** button on the top left of the screen. **Click** on **File**, then **Export**. Change the **Type** to the **.stl file format** and choose a location to save it, and select **Export.** It may take a couple of minutes to export. 
 
     **Congratulations! You can now 3D print your phone holder!**
     
-    <img src="images/act-2/7.png" alt="final 3d model" style="width:330px;">
-    <img src="images/act-2/7-2.jpg" alt="final printed piece" style="width:330px;">
+    <img src="images/act-2/7.png" alt="final 3d model" style="height: 200px;">
+    <img src="images/act-2/7-2.jpg" alt="final printed piece" style="height:200px;">
 
  <script>  
 
@@ -117,7 +119,6 @@ If you or your group have any questions or get stuck as you work through this in
         }
     }
     </script>
-
 
 [NEXT STEP: Create a Lego Brick](act-3.html){: .btn .btn-blue }
 

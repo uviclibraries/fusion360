@@ -38,7 +38,11 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-5/4-3.png" alt="menus" style="float:right;width:240px;margin-left:10px;">
     -   **Right-click** on the **document name** again. At the bottom of the pop-up **select Capture Design History.** This allows you to go back and edit the features you create.
 
+    <button onclick="toggle('gif1')">Show/Hide</button>
+    <div id="gif1">
     <img src="images/act-5/4-4.gif" alt="import .stl file" style="width:720px;">
+    </div>
+    
     <img src="images/act-5/5.png" alt="planes" style="float:right;width:240px;margin-left:10px;">
 
 5.  Cut the bone into two pieces:
@@ -98,6 +102,18 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Save** button to save your Fusion 360 file.
 
 **Congratulations! You now have a printable femur!**
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Create a Part from a Reference Image](act-6.html){: .btn .btn-blue }
 
