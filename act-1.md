@@ -81,11 +81,13 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     <script>  
 
     function toggle() {
-    var x = document.getElementById("gif1");
-    if (x.style.display === "none") {
-    x.style.display = "block";} else {
-    x.style.display = "none";}
-
+        var x = document.getElementById("gif1");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+            }
+        }
     </script>
 
 [NEXT STEP: Design a Phone Stand](act-2.html){: .btn .btn-blue }
