@@ -82,10 +82,17 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
 
     function toggle() {
         var x = document.getElementById("gif1");
+        var y = document.getElementById("gif2");
         if (x.style.display === "none") {
             x.style.display = "block";
-        } else {
+        } else if (x.style.display === "block") {
             x.style.display = "none";
+            }
+            
+        if (y.style.display === "none") {
+            y.style.display = "block";
+        } else if (y.style.display === "block") {
+            y.style.display = "none";
             }
         }
     </script>
