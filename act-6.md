@@ -66,7 +66,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-6/6.gif" alt="adding a star marker" style="width:720px;">
     </div>
 
-7. OPTIONAL: Add extra features
+7. **OPTIONAL:** Add extra features
     -   Cut a keychain hole
     -   Add text or other features to the top of the part
 

@@ -13,7 +13,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1.  Download & install Fusion 360:
-    -   Check your laptop specs to ensure it’s able to run Fusion 360: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
+    -   Check your laptop specs to ensure it can run Fusion 360: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB){:target="_blank"}
     -   Follow this link to make an Autodesk account and download Fusion 360: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"}
 
 2.  Launch Fusion 360 and get familiar with how to move around:

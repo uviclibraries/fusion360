@@ -31,12 +31,12 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-4/3-2.png" alt="initial lines" style="float:right;width:500px;margin-left:10px;">
     
-    -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the 4.5 mm line, then on the **endpoint** of the line. **Repeat** with the 3.5 mm line.
+    -   **Click** on the **Center Diameter Circle** tool <img src="images/act-4/3-6.png" alt="center diameter circle tool" style="width:25px;">. First, **click** somewhere on the **4.5 mm** line, then on the **endpoint** of the line. **Repeat** with the **3.5 mm** line.
     -   **Select** the **Line** tool <img src="images/act-4/3-7.png" alt="line tool" style="width:25px;">. **Click** on one **circle,** then **click** on the **second circle.**
     
     <img src="images/act-4/3-5.png" alt="circles" style="width:720px;">
     
-    -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The 2.25 mm dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal 12.5 mm line. Following the same method, add the dimensions highlighted in the picture above.
+    -   **Select** the **Sketch Dimension** tool <img src="images/act-4/3-8.png" alt="sketch dimension tool" style="width:25px;">. The **2.25 mm** dimension can be added by hovering over where the line meets the circle until a point appears, clicking on the point, then clicking on the horizontal **12.5 mm** line. Following the same method, add the dimensions highlighted in the picture above.
     
     <img src="images/act-4/3-9.png" alt="push pin cross section 1" style="float:right;width:500px;">
     
@@ -47,7 +47,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-4/3-10.gif" alt="trimming a sketch" style="width:720px;">
     </div>
 
-    -   **Click** over to the **Solid** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the 12.5 mm line as the **Axis. Click OK** in the **Revolve** pop-up box.
+    -   **Click** over to the **Solid** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the **12.5 mm** line as the **Axis. Click OK** in the **Revolve** pop-up box.
     
     <button onclick="toggle('gif2')">Show/Hide</button>
     <div id="gif2">
@@ -78,7 +78,7 @@ If you or your group have any questions or get stuck as you work through this in
 6.  Make the metal pin:
     -   **Orient** the push pin so you can look down the hole. **Select** the bottom face of the hole.
     -   **Click** on the **Extrude** feature <img src="images/act-4/6-2.png" alt="extrude feature" style="width:25px;">. In the Extrude pop-up box, **enter 15 mm** as the **Distance.** Select **New Component** from the Operation drop-down. **Click OK.**
-    -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to 0.5 mm and the second to 2.5 mm.  **Click OK.**
+    -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to **0.5 mm** and the second to **2.5 mm.**  **Click OK.**
     -   To activate both components at once, hover over the file name in the browser and **click the small circle** that appears next to the name. <img src="images/act-4/6-4.png" alt="small circle" style="width:200px;">
 
     <button onclick="toggle('gif4')">Show/Hide</button>

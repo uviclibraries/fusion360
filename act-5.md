@@ -48,7 +48,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-5/5.png" alt="planes" style="float:right;width:240px;margin-left:10px;">
 
 5.  Cut the bone into two pieces:
-    -   **Click** on the **Construct** drop-down on the top menu and **select Offset Plane.** Select the YZ plane (see right). Enter a **Distance** of 5 mm, and **press OK.**
+    -   **Click** on the **Construct** drop-down on the top menu and **select Offset Plane.** Select the YZ plane (see right). Enter a **Distance** of **5 mm**, and **press OK.**
     -   **Click** on the **Modify** drop-down menu & **select** the **Split Body** tool <img src="images/act-5/5-2.png" alt="split tool" style="width:25px;">.
     -   First, **click** on the **bone** to set it as the **Body to Split** (it will turn blue). **Click** on the **Select** button next to **Splitting Tool(s)** (see right). **Select** the **plane** you made, and a red disk will appear intersecting the bone. **Press OK.**
     
@@ -85,8 +85,8 @@ If you or your group have any questions or get stuck as you work through this in
     
     <img src="images/act-5/p2-1-7.png" alt="peg" style="float:right;width:180px;margin-left:10px;">
     
-    -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter 10 mm and **click OK.**
-    -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter 1mm as the **fillet radius** and **click ok.**
+    -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter **10 mm** and **click OK.**
+    -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter **1mm** as the **fillet radius** and **click ok.**
 
     <button onclick="toggle('gif3')">Show/Hide</button>
     <div id="gif3">
@@ -100,7 +100,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Hide **Body1** by clicking the eye in the design tree and unhide **Body2.**
     -   In the top right corner, click on the **Left** face of the view cube. While in this view, click on the cut face of the bone and click on the **Create Sketch** tool.
     -   Make a sketch with dimensions in the picture to the right. Notice that it’s mirrored from the last sketch and that the rectangle is slightly bigger. When done, **Click** on the green **Finish Sketch** button on the top right of the navigation bar.
-    -   Click over to the **Solid** tab and select the **Extrude** feature. Select the inside of the rectangle. Rotate the view so it can be seen in 3D. Enter -11 mm and **click OK.**
+    -   Click over to the **Solid** tab and select the **Extrude** feature. Select the inside of the rectangle. Rotate the view so it can be seen in 3D. Enter **-11 mm** and **click OK.**
     -   Unhide **Body1** by clicking the eye again.
 
     <img src="images/act-5/p2-3.png" alt="hole" style="float:right;width:180px;margin-left:10px;">
