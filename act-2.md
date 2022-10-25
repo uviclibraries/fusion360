@@ -40,7 +40,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Select the **Sketch Dimension** tool <img src="images/act-2/4-4.png" alt="sketch dimension tool" style="width:25px;">. **Click** on the **top line, move your mouse** slightly above the line and **click** again. **Enter 70 mm** as the dimension. **Repeat** with the **right line**, but enter **25 mm.**
     -   Notice that all sides of the rectangle are black. This means the sketch is fully defined.
 
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-2/3-2-crop.gif" alt="first sketch" style="width:720px;">
     </div>
@@ -48,7 +48,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. It will automatically select the interior area of the rectangle to extrude. Enter **2 mm** as the thickness. Then click **OK** in the **Extrude** pop-up box.
     -   Try rotating the part to view it in 3D by **holding down the shift key** and the **mouse wheel**.
 
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-2/4-7b-crop.gif" alt="extrude the rectangle" style="width:720px;">
     </div>
@@ -61,7 +61,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **2-Point Rectangle** tool. **Click** on the **top line** of the rectangle to constrain the first point of the rectangle to it and **click lower and to the right** of the first point.
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **top line** of the new rectangle, **enter the value** you calculated in step **3c**. **Click** the **right line**, enter **16 mm**. Now hold down your shift button & **click** the **right side** of the new rectangle and the **right side** of the **old rectangle** and enter **12 mm**. Notice the rectangle is now fully defined and in the correct location.
     
-    <button onclick="toggle('gif3')">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/act-2/5bcrop.gif" alt="slot and hole sketch" style="width:720px;">
     </div>
@@ -74,7 +74,7 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Click** on the **Sketch Dimension** tool. **Click** on the **circle** and enter **5 mm**. **Click** on the **center of the circle** and then **click on the left line** of the rectangle, enter **4 mm**. **Click** on the **center of the circle** and then **click** on the **top line of the rectangle**, enter **4 mm**.
     
-    <button onclick="toggle('gif4')">Show/Hide</button>
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
     <img src="images/act-2/5-5bcrop.gif" alt="text and lines" style="width:720px;margin-left:10px;"></div>
     
@@ -82,7 +82,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Right-click** on the **text**. Click **Explode Text**. Now your text should appear as lines.
     -   **Click** the **SOLID** menu tab. **Click** on **Extrude** <img src="images/act-2/5-7.png" alt="extrude feature" style="width:25px;">. Select the **faces to extrude** (circle, rectangle, and text features). **Rotate** the view of the part so it’s in 3D. In the **Extrude** pop-up box change the **Extent** to **All** and click **Flip**. The **Operation** should be **Cut. Click OK**.
 
-    <button onclick="toggle('gif5')">Show/Hide</button>
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
     <img src="images/act-2/5-5c.gif" alt="extrude cut" style="width:720px;"></div>
 
@@ -95,7 +95,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
-    <button onclick="toggle('gif6')">Show/Hide</button>
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
     <div id="gif6">
     <img src="images/act-2/6-4.gif" alt="fillet and chamfer" style="width:720px;"></div>
     

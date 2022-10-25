@@ -58,7 +58,7 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   **Right-click** on a feature, then click **Rename**. Type an appropriate name and hit the **Enter** key.
     -   Now when you hover your mouse over the feature in the **Timeline**, you will be able to see your custom name.
 
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-1/renaming.gif" alt="renaming" style="width:400px;margin-left:10px;">
     </div>
@@ -69,11 +69,12 @@ Fusion 360 has A LOT of features. Here’s a quick guide of tools and features t
     -   After you make a part, you will almost certainly need to go back and edit various aspects of it. Often, editing time will exceed initial designing time. Consider the following questions when doing the initial design:
         -   What dimensions are the most likely to be modified?
         <img src="images/act-1/8-2.png" alt="lego brick bottom" style="float:right;width:240px;margin-left:10px;">
+        
         -   If the outer dimensions of the part change, how do I want the other features to move with respect to the body?
         -   How should I setup a feature such that it changes (or doesn’t) when other features change? (e.g. in the Lego activity, it only takes one edit to change the Lego into a “short” Lego because one extrude depends on the length of another extrude).
     -   Sketches and features can be inserted into the middle of the **Timeline** by **dragging** this icon <img src="images/act-1/8-3.png" alt="timeline icon" style="width:20px;"> backwards (left) in the **Timeline**. Continue with sketching and feature creation as usual. Then move it back to the end of the **Timeline**. This is desirable when the part has been “finished” with fillets and chamfers but it turns out another feature needs to be added.
     
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-1/timeline.gif" alt="using the timeline" style="width:240px;margin-left:10px;">
     </div>

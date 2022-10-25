@@ -30,7 +30,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Insert** drop-down menu on the top navigation bar and **select Canvas. Click insert from my computer** and select the **image** file you downloaded.
     -   **Click** the plane you want to put your image on (the top plane is recommended), then **click and drag** the box on top of the image to resize. For more exact sizing, **type** a **scale factor** of 10 into the scale plane box. **Click ok**.
     
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-6/4.gif" alt="import image" style="width:720px;">
     </div>
@@ -42,7 +42,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click and drag** the black dots to adjust the position of each spline point, **click and drag** the ends of the green line to adjust the curve.
     -   Once you're happy with your outline, **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. **Select** your outline and set **5mm** as the distance.
 
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-6/5-1.gif" alt="fit point spline" style="width:720px;">
     </div>
@@ -61,7 +61,7 @@ If you or your group have any questions or get stuck as you work through this in
         **Note:** _construction lines can be useful references for a sketch, and will be ignored when extruding._
     -   **Click the Solid tab** on the top left and **click** on the **Extrude** feature <img src="images/act-2/4-5.png" alt="extrude feature" style="width:25px;">. Click inside your star sketch to select it, then choose Operation as **Cut**, and Extent Type as **All**.  **Click OK.**
 
-    <button onclick="toggle('gif3')">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/act-6/6.gif" alt="adding a star marker" style="width:720px;">
     </div>

@@ -63,7 +63,7 @@ If you or your group have any questions or get stuck as you work through this in
      -  **Click** on the **circle.** Change the following to match the diagram to the right: **Distance Type, Quantities,** and **Distances.** Ensure the **Distance Type** is **Spacing. Click OK.**
     -   **Click** the **Solid** tab button, then on the **Extrude** feature. **Select** the interior area of **all the circles. Enter** the **“D”** value as the thickness. Then **click OK** in the **Extrude** pop-up box.
 
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-3/5-8.gif" alt="rectangular pattern" style="width:720px;">
     </div>
@@ -97,7 +97,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-3/9-2.png" alt="lego piece underside" style="width:330px;">
     <img src="images/act-3/9-3.png" alt="lego piece topside" style="width:330px;">
 
-    <button onclick="toggle('gif4')">Show/Hide</button>
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
     <img src="images/act-3/9-4.gif" alt="lego chamfers" style="width:700px;">
     </div>
