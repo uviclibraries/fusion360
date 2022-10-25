@@ -33,7 +33,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Select** **Design** under General from the left side of the preferences window. Ensure **Auto project geometry on the active sketch plane** has a **checkmark** next to it. **Click OK**.
     -   To start a new design, **click +** on the top right,  OR **click File** in the top-left, then **New Design.**
 
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-3/3-2.gif" alt="new part" style="width:720px;">
     </div>

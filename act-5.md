@@ -40,7 +40,7 @@ If you or your group have any questions or get stuck as you work through this in
     <img src="images/act-5/4-3.png" alt="menus" style="float:right;width:240px;margin-left:10px;">
     -   **Right-click** on the **document name** again. At the bottom of the pop-up **select Capture Design History.** This allows you to go back and edit the features you create.
 
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-5/4-4.gif" alt="import .stl file" style="width:720px;">
     </div>
@@ -57,7 +57,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Note:** _One of the original planes can also be used to split the part but often the original planes don't intersect the part where we want them, so here we use this method for demonstration._
     -   **Note:** _Notice that in the design tree there are now two bodies._
 
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-5/5-4.gif" alt="split bone" style="width:720px;">
     </div>
@@ -88,7 +88,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   Click over to the **Solid** tab and select the **Extrude** feature <img src="images/act-5/p2-1-6.png" alt="extrude feature" style="width:25px;">. Select the inside of the rectangle. Rotate the view so it can be viewed in 3D. Enter **10 mm** and **click OK.**
     -   Click on the **Fillet** tool <img src="images/act-5/p2-1-8.png" alt="fillet tool" style="width:25px;">. Select the four edges of the square face and the four edges of the extrude. Enter **1mm** as the **fillet radius** and **click ok.**
 
-    <button onclick="toggle('gif3')">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/act-5/p2-1-9.gif" alt="create a peg" style="width:720px;">
     </div>

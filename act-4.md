@@ -42,14 +42,14 @@ If you or your group have any questions or get stuck as you work through this in
     
     -   **Select** the **Trim** tool <img src="images/act-4/3-91.png" alt="trim tool" style="width:25px;">. This tool allows you to remove sketch entities that are not needed. **Click and drag** over part of a circle, then **release** the mouse. **Delete** parts of the circles until it looks like the diagram to the right.
 
-    <button onclick="toggle('gif1')">Show/Hide</button>
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/act-4/3-10.gif" alt="trimming a sketch" style="width:720px;">
     </div>
 
     -   **Click** over to the **Solid** tab on the top menu, and click on the **Revolve** feature <img src="images/act-4/3-93.png" alt="revolve tool" style="width:25px;">. It will automatically select the interior area of the sketch to revolve. **Select** the **12.5 mm** line as the **Axis. Click OK** in the **Revolve** pop-up box.
     
-    <button onclick="toggle('gif2')">Show/Hide</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/act-4/3-11.gif" alt="revolving a sketch" style="width:720px;">
     </div>
@@ -62,7 +62,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   In the Hole Feature window, change the **Drill Point** end condition to **Flat,** change the depth to 5 mm and the width to 1 mm.
     -   **Click OK** in the **Hole Feature** window.
     
-    <button onclick="toggle('gif3')">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/act-4/4-3.gif" alt="making a hole" style="width:720px;">
     </div>
@@ -81,7 +81,7 @@ If you or your group have any questions or get stuck as you work through this in
     -   **Click** on the **Modify** drop-down menu and select the **Chamfer** tool <img src="images/act-1/4-5.png" alt="chamfer tool" style="width:25px;">. **Select** the edge of the metal pin that isn’t in the plastic. Change the **Chamfer Type** to **Two distances,** change the first distance to **0.5 mm** and the second to **2.5 mm.**  **Click OK.**
     -   To activate both components at once, hover over the file name in the browser and **click the small circle** that appears next to the name. <img src="images/act-4/6-4.png" alt="small circle" style="width:200px;">
 
-    <button onclick="toggle('gif4')">Show/Hide</button>
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
     <img src="images/act-4/6-5.gif" alt="making the metal pin" style="width:700px;">
     </div>
