@@ -91,7 +91,7 @@ If you or your group have any questions or get stuck as you work through this in
 6.  Fillet and chamfer edges. **Note:** _Always leave fillets and chamfers until after your design is completed._
     -   **Click** on the **Fillet** tool on the top menu <img src="images/act-2/6.png" alt="fillet tool" style="width:25px;">. **Click** on the **6 outside vertical corner edges** of the rectangle in turn and **change** the **fillet radius** to **3 mm** for all of them.
 
-    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="float:right;width:250px;margin-left:10px;">
+    <img src="images/act-2/6-2.png" alt="chamfer pop up" style="width:250px;margin-left:10px;">
 
     -   **Click** on the **Modify** drop-down menu. **Click** on **Chamfer**. **Click** on the **top edge** of the **hole** and the top edge for the outside profile. **Rotate around the keychain** and select the same edges on the **bottom**. **Enter** a **Distance** of **0.5 mm**, and press **Enter**.
     
