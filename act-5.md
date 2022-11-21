@@ -11,7 +11,7 @@ parent: Workshop Activities
 
 If you or your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1.  Download and install Fusion 360.
+1.  **Download** and **install** Fusion 360.
     -   Check your laptop specs to ensure it’s able to run Fusion 360. System requirements are listed here: [https://autode.sk/2qg8ryB](https://autode.sk/2qg8ryB]){:target="_blank"}
     -   Follow this link: [https://autode.sk/3DW7TRB](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360
 
@@ -65,7 +65,7 @@ If you or your group have any questions or get stuck as you work through this in
 6.  Export as separate STL files:
     <img src="images/act-5/6a.png" alt="save as mesh" style="float:right;width:180px;margin-left:10px;">
     -   Right-click on **Body1** in the design tree. Select **Save As Mesh**.  Select .stl as the Format and  **Click OK** in the pop-up box. Save it in your desired location.
-    -   Repeat with **Body 2.**
+    -   Repeat with **Body2.**
     -   Click on the **Save** button to save your Fusion 360 file.
     -   Congratulations! You now have a printable femur!
 

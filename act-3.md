@@ -74,7 +74,7 @@ If you or your group have any questions or get stuck as you work through this in
 
     <img src="images/act-3/7-2.png" alt="underside lego in progress" style="width:240px;">
 
-    <button onclick="toggle('gif3')">Show/Hide</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/act-3/6-4.gif" alt="shelling" style="width:720px;">
     </div>
