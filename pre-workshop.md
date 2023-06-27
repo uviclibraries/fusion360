@@ -12,8 +12,8 @@ This workshop is primarily hands-on practice with Fusion 360 in order to learn t
 -   You can obtain a free license to use Fusion 360 for personal use. Go to the [Autodesk website](https://autode.sk/3DW7TRB){:target="_blank"} to make an Autodesk account and download Fusion 360
 
 ## Videos:
--   [Navigating the Fusion 360 Interface](https://www.youtube.com/watch?v=sZwM87-nsYA){:target="_blank"} (9 min)<br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sZwM87-nsYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-   [Navigating the Fusion 360 Interface](https://www.youtube.com/watch?v=WKb3mRkgTwg)){:target="_blank"} (9 min)<br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WKb3mRkgTwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -   [How to Use and Read a Digital Caliper](https://www.youtube.com/watch?v=4fBycE1dk0I){:target="_blank"} (5 min)<br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4fBycE1dk0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -   [Understanding 3D Printer Accuracy](https://www.youtube.com/watch?v=lo3bZWNQp0w){:target="_blank"} (6 min)<br>
