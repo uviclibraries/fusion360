@@ -4,8 +4,7 @@ title: Earn a Workshop Badge
 nav_order: 9
 ---
 
-<img src="https://api.badgr.io/public/badges/hsSQ0Kg5RFC1dtGM_InGRg/image" style="float:right;width:180px;"> 
-
+<img src="https://api.badgr.io/public/badges/hsSQ0Kg5RFC1dtGM_InGRg/image" style="float:right;width:180px;">  
 # Informal Credentials or Digital Badges
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed 3D modelling skills using Fusion 360. 
