@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Fusion 360 Resources
--   [Fusion 360 in 30 days](https://www.youtube.com/watch?v=WKb3mRkgTwg&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr){:target="_blank"}<br>
+-   [Fusion 360 in 30 days](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr){:target="_blank"}<br>
     This is an excellent free series of instructional videos if you would like to learn to design other objects including a whiskey bottle, phone case, and ice cube tray.
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
